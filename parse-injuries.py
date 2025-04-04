@@ -31,14 +31,6 @@ except FileNotFoundError:
 
 content = content.strip()
 
-try:
-  with open(args.teams) as f:
-      teams = [line.strip() for line in f if line.strip()]
-except FileNotFoundError:
-  teams
-
-print(teams, type(teams))
-
 teams_hardcoded = [
     "Urrgmelonflex",
     "Volcamoose Saints",
@@ -73,6 +65,12 @@ teams_hardcoded = [
     "Wretched Minstrels",
     "LingoBlend Allstars",
 ]
+
+try:
+    with open(args.teams) as f:
+        teams = [line.strip() for line in f if line.strip()]
+except FileNotFoundError:
+    teams = teams_hardcoded
 
 # Week number
 content = re.sub("W([\\d+])", f"{args.season},\1", content)
