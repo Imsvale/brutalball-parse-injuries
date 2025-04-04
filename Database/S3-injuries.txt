@@ -1,407 +1,406 @@
-Season,Week,Victim Team,Victim,SR0,SR1,DUR,Type,Offender Team,Offender,BRU,Bounty
-3,1,Blood Pit Bouncers,Mighty Bouffant,65,SEASON ENDING INJURY,Beekeepers,Len Styrofoam,71,60,58
-3,1,Grazer Ridge,Nigel Prison,46,INJURED,Peninsula Transport,Julio Lobster,61,83,82
-3,1,Cheerio Inc,Myra Sacrifice,20,INJURED,Volcamoose Saints,Willy Fanfest,73,98,96
-3,1,Bumson Medics,Martin Jackhammer,43,INJURED,Urrgmelonflex,Braendig Gladwin,83,69,67
-3,1,Bumson Medics,Judy Conspiracy,29,INJURED,Urrgmelonflex,Braendig Gladwin,83,59,57
-3,1,Urrgmelonflex,Chicken Druid,60,INJURED,Bumson Medics,Anger Panda,67,64,61
-3,1,Vuvu Boys,Stabby Pete,57,INJURED,Budget Roadies,Drew Actionclump,66,68,67
-3,1,Budget Roadies,Viscount Heat,55,INJURED,Vuvu Boys,Brandon Peril,72,72,71
-3,1,Vuvu Boys,Bernie Mistakes,53,INJURED,Budget Roadies,Henni Duplex,73,63,62
-3,1,Vuvu Boys,Evan Doublehair,48,INJURED,Budget Roadies,Capsicum Disco,55,83,82
-3,1,Toymasters,Justin Underworld,39,INJURED,Wizard Hole Wizards,Plastic Vicar,58,84,82
-3,1,Toymasters,Tag Evil-Couch SR 93,22,KILLED,Wizard Hole Wizards,Fink Conduct,46
-3,1,Toymasters,Pip Strobelight,47,INJURED,Wizard Hole Wizards,Mokka Badsun,79,76,75
-3,1,Stardozer HR,Picasso Middle-Eight SR 70,32,KILLED,Picks Creek Miners,Stentorian Pizzabox,51
-3,1,Stardozer HR,Father Tempest,63,INJURED,Picks Creek Miners,Crank Virtue,59,77,76
-3,1,Picks Creek Miners,Tristram Lawnmower,63,INJURED,Stardozer HR,John Baritone,73,71,70
-3,1,Picks Creek Miners,Whiskers Camembert,21,INJURED,Stardozer HR,John Baritone,73,67,65
-3,1,Shady Palms,Jovial Impairment,48,INJURED,Sweaty Marsupials,Krag Franklin,72,64,62
-3,1,Sweaty Marsupials,Sulk Fundament,50,INJURED,Shady Palms,Polly Babylon,77,61,60
-3,1,Wretched Minstrels,Percival Hatred,26,INJURED,Bongolia Sea Raiders,Ziggy Whippet,57,86,84
-3,1,Bongolia Sea Raiders,Ziggy Whippet,37,INJURED,Wretched Minstrels,Pitbull Jones,64,75,74
-3,1,Wretched Minstrels,Oscar Cattle-Prod,42,INJURED,Bongolia Sea Raiders,Zoltan Zoltan,65,94,93,BOUNTY COLLECTED
-3,1,Fire Chefs,Poster Roy,38,INJURED,LingoBlend Allstars,Hack Murphy,40,60,59
-3,1,LingoBlend Allstars,Flora Dope,36,INJURED,Fire Chefs,Ingrid Matrix,63,61,59
-3,1,LingoBlend Allstars,Barbara Joy-Joy,46,INJURED,Fire Chefs,Kim Freightmaster,48,57,55
-3,1,Red Star Pathfinders,Horace Diamonds,50,INJURED,Bulldozer Power,Surgeon General,63,67,66
-3,1,Kernal Space Agency,Bugeye Seizure,72,INJURED,Port Miggins Pirates,Mikey Pwertoolz,70,63,60
-3,1,Grunt Auto Gruppe,Sue Humpin,57,INJURED,Sportsball Union,Mervyn Pinerider,72,66,64
-3,1,Failurewood Hills,Butterfly Porkchop,50,INJURED,Eduslum Marching Band,Gustav Shank,71,59,57
-3,1,Failurewood Hills,Desmond Eyeliner,35,INJURED,Eduslum Marching Band,Gus Hitman Resume,90,78,77
-3,2,Ov City Axemen,Chubs Beaver,32,INJURED,Volcamoose Saints,Erlan Dickburg,75,73,72
-3,2,Wizard Hole Wizards,Trip Hogwash,70,INJURED,Vuvu Boys,Evan Doublehair,92,61,59
-3,2,Vuvu Boys,Stabby Pete,44,INJURED,Wizard Hole Wizards,Brad Adidas,79,65,69
-3,2,Wizard Hole Wizards,Fink Conduct,41,INJURED,Vuvu Boys,Evan Doublehair,92,76,75
-3,2,Stardozer HR,Father Tempest,63,INJURED,Grazer Ridge,Santino Bananas,80,76,75
-3,2,Sunshine Funbus,Antonio Rojas,39,INJURED,Kernal Space Agency,Tongo Coriander,76,61,60
-3,2,Sunshine Funbus,Saturn Mist,55,INJURED,Kernal Space Agency,Olga Delerium,63,62,67
-3,2,Sunshine Funbus,Colt Rhombus,33,INJURED,Kernal Space Agency,Olga Delerium,63,64,62
-3,2,Toymasters,Mo Foul SR 55,62,KILLED,Budget Roadies,Henni Duplex,73
-3,2,Budget Roadies,Christa Lemonade,64,INJURED,Toymasters,Dave Caustic,66,70,74
-3,2,Shady Palms,Crystal Temple-Meads SR 70,44,KILLED,Fire Chefs,Isla Monotheism,91
-3,2,Blood Pit Bouncers,Kojak Mysteron,19,INJURED,Urrgmelonflex,Braendig Gladwin,83,69,68
-3,2,Grunt Auto Gruppe,Georgie Cones,61,INJURED,Bulldozer Power,Steve Morrey,75,69,67
-3,2,Grunt Auto Gruppe,Cherri Margarita,61,INJURED,Bulldozer Power,Steve Morrey,75,78,76
-3,2,LingoBlend Allstars,Flora Dope,36,INJURED,Sweaty Marsupials,Candy Wick,83,57,55
-3,2,LingoBlend Allstars,Shade Darkcave,44,INJURED,Sweaty Marsupials,Fritz Beermat,60,51,53
-3,2,LingoBlend Allstars,Todd Baubles,58,INJURED,Sweaty Marsupials,Fritz Beermat,60,64,63
-3,2,Sweaty Marsupials,Candy Wick,45,INJURED,LingoBlend Allstars,Hack Murphy,40,63,61
-3,2,Steggonauts,Michael Poems,41,INJURED,Cheerio Inc,Robert Fondle,64,54,53
-3,2,Cheerio Inc,Robert Fondle,63,INJURED,Steggonauts,Benny Cheese,80,66,65
-3,2,Cheerio Inc,Troy Oktoberfest,73,INJURED,Steggonauts,David Onions,85,75,75
-3,2,Sportsball Union,Mervyn Pinerider,59,INJURED,Red Star Pathfinders,Horace Diamonds,52,63,62
-3,2,Eduslum Marching Band,Kit Katz,72,INJURED,Wretched Minstrels,Ben Radical,74,59,58
-3,2,Wretched Minstrels,Ben Radical,78,INJURED,Eduslum Marching Band,Anna Linguistic,78,72,70
-3,2,Wretched Minstrels,Percival Hatred,22,INJURED,Eduslum Marching Band,Linn Mephisto,66,90,90
-3,2,Wretched Minstrels,Pitbull Jones,50,SEASON ENDING INJURY,Eduslum Marching Band,Linn Mephisto,66,74,69
-3,3,Beekeepers,Dirty Woods,41,INJURED,Bumson Medics,Martin Jackhammer,34,67,67
-3,3,Wizard Hole Wizards,Nova Wild,54,INJURED,Vuvu Boys,Brandon Peril,72,52,52
-3,3,Vuvu Boys,Evan Doublehair,48,INJURED,Wizard Hole Wizards,Brad Adidas,79,82,80
-3,3,Wizard Hole Wizards,Barry Turnips,67,INJURED,Vuvu Boys,Horsten Saltblock,68,74,74,BOUNTY COLLECTED
-3,3,Vuvu Boys,Horsten Saltblock,74,INJURED,Wizard Hole Wizards,Mokka Badsun,79,67,66
-3,3,Ov City Axemen,Wanda Bluepill,62,INJURED,Volcamoose Saints,Mary Ruthless,68,74,70
-3,3,Toymasters,Dave Caustic,69,INJURED,Budget Roadies,Drew Actionclump,76,83,82
-3,3,Picks Creek Miners,Stentorian Pizzabox,36,INJURED,Peninsula Transport,Ben Turncoat,51,70,70
-3,3,Peninsula Transport,Klepp Bossmang,39,INJURED,Picks Creek Miners,John Splinter,49,75,74
-3,3,Steggonauts,Michael Poems,41,INJURED,Cheerio Inc,Alan Twerp,69,59,58
-3,3,Bulldozer Power,Ed Big-Mother,64,INJURED,Grunt Auto Gruppe,Cherri Margarita,86,70,70
-3,3,Bulldozer Power,Ron Bongos,46,INJURED,Grunt Auto Gruppe,Tyger Styles,65,72,71
-3,3,Grunt Auto Gruppe,Cherri Margarita,61,INJURED,Bulldozer Power,Steve Morrey,75,74,73
-3,3,Failurewood Hills,Emanuel Weather-Cone,63,INJURED,Bongolia Sea Raiders,Hunter Marigold,82,76,75
-3,3,Stardozer HR,Painful Grinding,67,INJURED,Grazer Ridge,Santino Bananas,80,67,66
-3,3,Shady Palms,Polly Babylon,34,INJURED,Fire Chefs,Kim Freightmaster,48,64,62
-3,3,Wretched Minstrels,Professor Fetom,58,INJURED,Eduslum Marching Band,Kit Katz,92,68,67
-3,3,Wretched Minstrels,Bonky Rhino,57,INJURED,Eduslum Marching Band,Kit Katz,92,77,75
-3,3,Eduslum Marching Band,Bob Roquefort,39,INJURED,Wretched Minstrels,Oscar Cattle-Prod,44,65,63
-3,3,Wretched Minstrels,Chonk Olympics,72,INJURED,Eduslum Marching Band,Anna Linguistic,78,74,73
-3,3,Eduslum Marching Band,Anna Linguistic,58,SEASON ENDING INJURY,Wretched Minstrels,Helga Jumpjet,53,72,70
-3,3,LingoBlend Allstars,Warren Frag,68,INJURED,Sweaty Marsupials,Krag Franklin,72,84,80
-3,4,Sportsball Union,Mervyn Pinerider,47,SEASON ENDING INJURY,Picks Creek Miners,Pamela Mustard,54,55,60
-3,4,Ov City Axemen,Buttercup Gunns,51,INJURED,Failurewood Hills,Johan Tremendous,71,86,85,BOUNTY COLLECTED
-3,4,Failurewood Hills,Desmond Eyeliner,35,INJURED,Ov City Axemen,Shandy Worthless,51,77,76
-3,4,Wretched Minstrels,Chonk Olympics,72,INJURED,Beekeepers,Len Styrofoam,71,73,72
-3,4,Wretched Minstrels,Helga Jumpjet,65,INJURED,Beekeepers,Hippy Impact,67,62,60
-3,4,Eduslum Marching Band,Bautista Cranium,51,INJURED,Vuvu Boys,Horsten Saltblock,68,71,70
-3,4,Bongolia Sea Raiders,Paul Tribunal,57,INJURED,Steggonauts,David Onions,70,63,61
-3,4,Cheerio Inc,Myra Sacrifice,20,INJURED,Shady Palms,Tintin Hollywood,37,89,87
-3,4,Kernal Space Agency,Jeff Conservative,30,SEASON ENDING INJURY,Budget Roadies,Capsicum Disco,55,58,56
-3,4,Kernal Space Agency,Tongo Coriander,37,INJURED,Budget Roadies,Clamorous Thrapple,76,68,69
-3,4,Toymasters,Pip Strobelight,46,INJURED,Fire Chefs,Isla Monotheism,76,70,69
-3,4,Fire Chefs,Poster Roy SR 59,38,KILLED,Toymasters,Justin Underworld,43
-3,4,Wizard Hole Wizards,Fink Conduct,41,INJURED,Nomads,Bird Dogg,44,75,72
-3,4,Nomads,Kim Selecta,38,INJURED,Wizard Hole Wizards,Eddie Progribniak,55,75,75
-3,4,Wizard Hole Wizards,Barry Turnips,66,INJURED,Nomads,Razzad Fowler,74,78,79,BOUNTY COLLECTED
-3,4,Nomads,Flinty Wimple,49,INJURED,Wizard Hole Wizards,Mokka Badsun,67,66,64
-3,4,LingoBlend Allstars,Jenny J Sonar,55,INJURED,Stardozer HR,John Baritone,73,54,53
-3,4,Urrgmelonflex,Anne-Marie Tidal-Poole,34,INJURED,Port Miggins Pirates,Jerry Surge,75,58,56
-3,4,Sweaty Marsupials,Krag Franklin,85,INJURED,Blood Pit Bouncers,Fred Singularity,91,70,68
-3,4,Sweaty Marsupials,Ruthie Spasms,67,INJURED,Blood Pit Bouncers,Fred Singularity,91,73,72
-3,4,Blood Pit Bouncers,Ramiro Pleasuredome,60,INJURED,Sweaty Marsupials,Candy Wick,83,80,80
-3,4,Blood Pit Bouncers,Hermione Crumplezone,76,INJURED,Sweaty Marsupials,Candy Wick,83,60,58
-3,4,Bulldozer Power,Quebec Spire,74,SEASON ENDING INJURY,Volcamoose Saints,Erlan Dickburg,75,68,66
-3,4,Red Star Pathfinders,Horace Diamonds,49,INJURED,Grazer Ridge,Santino Bananas,80,61,59
-3,4,Red Star Pathfinders,Clive Goalmouth,64,INJURED,Grazer Ridge,Dick Minor,65,66,65
-3,4,Bumson Medics,Rorke Justice,34,INJURED,Grunt Auto Gruppe,Cherri Margarita,86,57,56
-3,4,Bumson Medics,Bandit Joe,0,INJURED,Grunt Auto Gruppe,Harriet Reflux,58,73,73
-3,4,Bumson Medics,Bambi Severe,66,INJURED,Grunt Auto Gruppe,Sue Humpin,64,66,65
-3,4,Sunshine Funbus,Antonio Rojas,39,INJURED,Peninsula Transport,Hank Fungible,36,68,67
-3,5,Grunt Auto Gruppe,Cherri Margarita,60,INJURED,Volcamoose Saints,Chris Biscuit,60,73,71
-3,5,Wizard Hole Wizards,Trip Hogwash,70,INJURED,Shady Palms,Jovial Impairment,80,59,57
-3,5,Wizard Hole Wizards,Nova Wild,53,INJURED,Shady Palms,Bork Tesla,81,50,48
-3,5,Shady Palms,Jovial Impairment,48,INJURED,Wizard Hole Wizards,Barry Turnips,75,64,62
-3,5,Wizard Hole Wizards,Fink Conduct,41,INJURED,Shady Palms,JJJ Schweitzer,93,73,72
-3,5,Shady Palms,Herman Direwolf,56,INJURED,Wizard Hole Wizards,Whomping Willow,68,62,61
-3,5,Budget Roadies,Drew Actionclump,30,INJURED,Fire Chefs,Tobin Jocular,63,93,92
-3,5,Budget Roadies,Viscount Heat,55,INJURED,Fire Chefs,Tobin Jocular,63,65,64
-3,5,Fire Chefs,Kim Freightmaster,39,INJURED,Budget Roadies,Henk Vengeance,58,84,82
-3,5,Nomads,Olivia Chaka-Khan,44,INJURED,Peninsula Transport,Wendi Drugs,100,65,63
-3,5,Picks Creek Miners,Stentorian Pizzabox,49,INJURED,Kernal Space Agency,Charlie Choo Choo,70,70,69
-3,5,Urrgmelonflex,Gail Scarlet-Roid,39,INJURED,Sportsball Union,Rafael Zeppelin,66,54,62
-3,5,Wretched Minstrels,Chonk Olympics,72,INJURED,Grazer Ridge,Santino Bananas,80,72,71
-3,5,Sweaty Marsupials,Candy Wick,45,INJURED,Bumson Medics,Coughs Zerma,70,65,63
-3,5,Toymasters,Seedy Sea,75,INJURED,Eduslum Marching Band,Kit Katz,92,62,60
-3,5,Toymasters,Pablo Elastaplast,64,INJURED,Eduslum Marching Band,Gus Hitman Resume,90,65,63
-3,5,Cheerio Inc,Myra Sacrifice,20,INJURED,Bongolia Sea Raiders,Mr Smithers,74,87,84
-3,5,Vuvu Boys,Stabby Pete,56,INJURED,Failurewood Hills,Lancelot Bonanza,79,73,72
-3,5,Bulldozer Power,Surgeon General,52,INJURED,Steggonauts,Benny Cheese,67,61,65
-3,5,Bulldozer Power,Ron Bongos,43,INJURED,Steggonauts,Larry Splendid,70,78,77
-3,5,Bulldozer Power,Claudia Dystopia,50,INJURED,Steggonauts,Barry Science,62,59,57
-3,5,Bulldozer Power,Julius Hardware,36,INJURED,Steggonauts,Saul Mastif,49,61,59
-3,5,Ov City Axemen,Chubs Beaver,31,INJURED,Red Star Pathfinders,Horace Diamonds,52,72,71
-3,5,Ov City Axemen,Buttercup Gunns,36,INJURED,Red Star Pathfinders,Horace Diamonds,52,75,80,BOUNTY COLLECTED
-3,5,Red Star Pathfinders,Clive Goalmouth,64,INJURED,Ov City Axemen,Tarquin Bangfish,86,74,72
-3,6,Toymasters,Benny Sausages,60,INJURED,Peninsula Transport,Wendi Drugs,100,67,66
-3,6,Toymasters,Pablo Elastaplast,63,INJURED,Peninsula Transport,Eddie Brazil,79,69,68
-3,6,Urrgmelonflex,Omar Pellegrino,35,INJURED,Steggonauts,David Onions,70,70,70
-3,6,Blood Pit Bouncers,Glenda Bastard,70,INJURED,Cheerio Inc,Sanguine Pangs,67,82,80
-3,6,Cheerio Inc,Troy Oktoberfest,73,INJURED,Blood Pit Bouncers,Fred Singularity,91,77,75
-3,6,Failurewood Hills,Lancelot Bonanza SR 82,64,KILLED,Kernal Space Agency,K C Jones,71
-3,6,Eduslum Marching Band,Tarquin Bangfish,76,INJURED,Port Miggins Pirates,Mikey Pwertoolz,70,75,69
-3,6,Eduslum Marching Band,Roughstuff Smith,19,INJURED,Port Miggins Pirates,Doug Conglomerate,74,70,69
-3,6,Beekeepers,Hippy Impact,76,INJURED,Volcamoose Saints,Willy Fanfest,73,78,77
-3,6,Beekeepers,Daxxter Hijack,41,INJURED,Volcamoose Saints,Erlan Dickburg,63,70,70
-3,6,Volcamoose Saints,Saint Crabthorn,29,INJURED,Beekeepers,Minnie Sabotage,82,65,64
-3,6,Beekeepers,Hank Massive,61,INJURED,Volcamoose Saints,Chris Biscuit,75,64,63
-3,6,Volcamoose Saints,Erlan Dickburg,68,INJURED,Beekeepers,Len Styrofoam,71,81,78
-3,6,Beekeepers,Celia Parole,67,INJURED,Volcamoose Saints,Willy Fanfest,73,70,63
-3,6,Stardozer HR,Donut Crazy,33,INJURED,Vuvu Boys,Evan Doublehair,92,83,82
-3,6,Shady Palms,Bork Tesla,54,INJURED,Grunt Auto Gruppe,Cherri Margarita,86,66,64
-3,6,Grunt Auto Gruppe,Bingo Hazmat,61,INJURED,Shady Palms,Royston Arkansas,73,85,83
-3,6,Shady Palms,Royston Arkansas,46,SEASON ENDING INJURY,Grunt Auto Gruppe,Tyger Styles,65,61,59
-3,6,Picks Creek Miners,Whiskers Camembert,21,INJURED,Budget Roadies,Capsicum Disco,55,71,69
-3,6,Wizard Hole Wizards,Tonya Spangle,65,INJURED,Grazer Ridge,Santino Bananas,80,55,54
-3,6,Sportsball Union,Jackson Clowncar,50,INJURED,Sweaty Marsupials,Candy Wick,83,105,103
-3,6,Sweaty Marsupials,Candy Wick,13,INJURED,Sportsball Union,Java Tea,86,60,61
-3,6,Wretched Minstrels,Ben Radical,78,INJURED,Nomads,Herr Bear,79,70,68
-3,6,Wretched Minstrels,Professor Fetom,57,INJURED,Nomads,Egon Sanction,72,72,70
-3,6,Wretched Minstrels,Helga Jumpjet,65,INJURED,Nomads,Crotch Dangleflag,76,60,59
-3,6,Fire Chefs,Bruce Kapok SR 71,56,KILLED,Bulldozer Power,Ron Bongos,96
-3,6,Fire Chefs,Isla Monotheism,42,INJURED,Bulldozer Power,Steve Morrey,75,64,65,BOUNTY COLLECTED
-3,6,Bulldozer Power,Judy Conspiracy,35,INJURED,Fire Chefs,Percy Riots,78,64,61
-3,6,Bulldozer Power,Stuntworth Friendly SR 63,61,KILLED,Fire Chefs,Percy Riots,78
-3,7,Grunt Auto Gruppe,Tyger Styles,45,INJURED,Ov City Axemen,Shandy Worthless,63,91,90
-3,7,Ov City Axemen,Trellis Cosmic,81,INJURED,Grunt Auto Gruppe,Cherri Margarita,86,70,66
-3,7,Red Star Pathfinders,Papal Event-Horizon,33,INJURED,Steggonauts,Constance Frenzy,53,53,51
-3,7,Red Star Pathfinders,Tandy Appleseed,63,INJURED,Steggonauts,Furious Spongbath,102,79,77
-3,7,Red Star Pathfinders,Thor Haystacks,36,INJURED,Steggonauts,Barry Science,62,59,58
-3,7,Eduslum Marching Band,Tarquin Bangfish,62,INJURED,Wizard Hole Wizards,Tonya Spangle,77,70,69
-3,7,Eduslum Marching Band,Bautista Cranium,51,INJURED,Wizard Hole Wizards,Mokka Badsun,79,74,72
-3,7,Budget Roadies,Christa Lemonade,76,INJURED,Shady Palms,Bork Tesla,81,70,69
-3,7,Shady Palms,Polly Babylon,34,INJURED,Budget Roadies,Capsicum Disco,55,62,61
-3,7,Budget Roadies,Henni Duplex SR 70,54,KILLED,Shady Palms,JJJ Schweitzer,93
-3,7,Budget Roadies,Viscount Heat,54,INJURED,Shady Palms,Jovial Impairment,80,64,63
-3,7,Shady Palms,Spack Freely,73,INJURED,Budget Roadies,Drew Actionclump,66,72,69
-3,7,Budget Roadies,Drew Actionclump,30,INJURED,Shady Palms,Sinbad Contract,60,96,95
-3,7,Nomads,Crotch Dangleflag,61,INJURED,Picks Creek Miners,Rosemary Busted,79,59,58
-3,7,Nomads,Herr Bear,59,INJURED,Picks Creek Miners,Rosemary Busted,79,67,66
-3,7,Beekeepers,Daxxter Hijack,53,INJURED,LingoBlend Allstars,Warren Frag,76,68,65
-3,7,Beekeepers,Bola Introvert,29,INJURED,LingoBlend Allstars,Warren Frag,76,63,61
-3,7,LingoBlend Allstars,Hack Murphy,46,INJURED,Beekeepers,Hippy Impact,67,75,74
-3,7,Beekeepers,Mickal Pickle,46,INJURED,LingoBlend Allstars,Ulysses Failure,93,61,60
-3,7,Kernal Space Agency,Tongo Coriander,58,INJURED,Stardozer HR,Beelzebub Fastidious,85,71,69
-3,7,Sunshine Funbus,Saturn Mist,69,INJURED,Urrgmelonflex,Gail Scarlet-Roid,75,67,66
-3,7,Sunshine Funbus,Beaman Hurricane,24,INJURED,Urrgmelonflex,Flapjack Nope,52,62,62
-3,7,Toymasters,Justin Underworld,39,INJURED,Bongolia Sea Raiders,Rudy Capslock,70,85,84
-3,7,Toymasters,Dave Caustic,69,INJURED,Bongolia Sea Raiders,Zoltan Zoltan,65,78,75
-3,7,Fire Chefs,Bessie Grapeshot,47,INJURED,Peninsula Transport,Wendi Drugs,100,67,66
-3,7,Fire Chefs,Mindy Bleach,57,INJURED,Peninsula Transport,Wendi Drugs,100,70,68
-3,7,Vuvu Boys,Bertha Raccoon,67,INJURED,Bulldozer Power,Ron Bongos,96,75,73
-3,7,Wretched Minstrels,Bonky Rhino,57,SEASON ENDING INJURY,Volcamoose Saints,Erlan Dickburg,75,71,69
-3,7,Wretched Minstrels,Gillian Voidmonkey,66,INJURED,Volcamoose Saints,Erlan Dickburg,75,67,65
-3,8,Peninsula Transport,Klepp Bossmang,39,INJURED,Cheerio Inc,Donna Baps,84,74,73
-3,8,Volcamoose Saints,Saint Crabthorn,29,INJURED,Blood Pit Bouncers,Frank Trombone,54,64,63
-3,8,Volcamoose Saints,Cogent Wang,51,INJURED,Blood Pit Bouncers,Fred Singularity,91,62,62
-3,8,Picks Creek Miners,Claudia Dystopia,50,INJURED,Vuvu Boys,Bertha Raccoon,50,57,55
-3,8,Sunshine Funbus,Antonio Rojas,39,INJURED,Wretched Minstrels,Percival Hatred,44,56,55
-3,8,Sunshine Funbus,Fritz Beermat,67,INJURED,Wretched Minstrels,Professor Fetom,57,58,58
-3,8,Sunshine Funbus,Beaman Hurricane,43,INJURED,Wretched Minstrels,Chonk Olympics,45,57,54
-3,8,Port Miggins Pirates,Jerry Surge,63,INJURED,Failurewood Hills,Johan Tremendous,71,57,56
-3,8,Failurewood Hills,Butterfly Porkchop SR 62,56,KILLED,Port Miggins Pirates,Kiki Tyrant,87
-3,8,Failurewood Hills,Kirk McTwist,75,INJURED,Port Miggins Pirates,Mikey Pwertoolz,70,59,56
-3,8,Failurewood Hills,Emanuel Weather-Cone,63,INJURED,Port Miggins Pirates,Mikey Pwertoolz,70,75,74
-3,8,Sweaty Marsupials,Tipsy Jack,52,INJURED,Grunt Auto Gruppe,Georgie Cones,88,57,55
-3,8,Sweaty Marsupials,Helga Jumpjet,65,INJURED,Grunt Auto Gruppe,Sue Humpin,64,64,63
-3,8,Grunt Auto Gruppe,Harriet Reflux,61,INJURED,Sweaty Marsupials,Krag Franklin,72,65,63
-3,8,Bongolia Sea Raiders,Ziggy Whippet,37,INJURED,Shady Palms,Polly Babylon,77,74,71
-3,8,Shady Palms,Polly Babylon,34,INJURED,Bongolia Sea Raiders,Jendrich Grippy,75,69,67
-3,8,Bumson Medics,Bandit Joe,15,INJURED,Steggonauts,David Onions,70,64,62
-3,8,Bumson Medics,Coughs Zerma,61,INJURED,Steggonauts,David Onions,70,74,71
-3,8,Urrgmelonflex,Gail Scarlet-Roid,56,INJURED,Wizard Hole Wizards,Barry Turnips,75,57,57
-3,8,Urrgmelonflex,Braendig Gladwin,50,INJURED,Wizard Hole Wizards,Mokka Badsun,79,79,77
-3,8,Urrgmelonflex,Bradley Coma,51,INJURED,Wizard Hole Wizards,Mokka Badsun,79,42,41
-3,8,Beekeepers,Bola Introvert SR 59,29,KILLED,Budget Roadies,Capsicum Disco,55
-3,8,Budget Roadies,Fenella ValuePack,39,INJURED,Beekeepers,Minnie Sabotage,82,63,62
-3,8,Budget Roadies,Drew Actionclump,33,INJURED,Beekeepers,Hank Massive,64,98,97
-3,8,Beekeepers,Rolf Henchucker,54,INJURED,Budget Roadies,Capsicum Disco,69,65,64
-3,8,Stardozer HR,Ostentacious Smack,62,INJURED,Ov City Axemen,Wanda Bluepill,68,75,73
-3,8,LingoBlend Allstars,Zimski Tabulate,66,INJURED,Eduslum Marching Band,Gus Hitman Resume,90,59,57
-3,9,Urrgmelonflex,Chicken Druid,60,INJURED,Ov City Axemen,Wanda Bluepill,68,66,64
-3,9,Peninsula Transport,Cordelia Benzedrine,51,INJURED,Wizard Hole Wizards,Mokka Badsun,79,77,76
-3,9,Wizard Hole Wizards,Fink Conduct SR 72,41,KILLED,Peninsula Transport,Trayce Attitude,52
-3,9,Wizard Hole Wizards,Tonya Spangle,64,INJURED,Peninsula Transport,Diego ASMR,80,53,52
-3,9,Peninsula Transport,MC Kaiser Extreme,62,INJURED,Wizard Hole Wizards,Barry Turnips,75,67,65
-3,9,Cheerio Inc,Myra Sacrifice,20,INJURED,Beekeepers,Minnie Sabotage,82,84,83
-3,9,Stardozer HR,Randall Frippery,42,INJURED,Budget Roadies,Capsicum Disco,55,69,67
-3,9,Sweaty Marsupials,Jossy Clickbait,51,INJURED,Wretched Minstrels,Ryan McNiece,62,64,63
-3,9,Nomads,Kim Selecta,38,INJURED,Bongolia Sea Raiders,Hunter Marigold,94,78,76
-3,9,Bongolia Sea Raiders,Hunter Marigold SR 64,54,KILLED,Nomads,Herr Bear,79
-3,9,Nomads,Herr Bear,59,INJURED,Bongolia Sea Raiders,Vera Contagion,58,70,69
-3,9,Grunt Auto Gruppe,Harriet Reflux,60,INJURED,Port Miggins Pirates,Big Rod McGurk,72,63,62
-3,9,Grunt Auto Gruppe,Sue Humpin,56,INJURED,Port Miggins Pirates,Mikey Pwertoolz,70,63,62
-3,9,Grunt Auto Gruppe,Karin Hair,55,INJURED,Port Miggins Pirates,Jerry Surge,75,73,72
-3,9,Port Miggins Pirates,Doug Conglomerate,60,INJURED,Grunt Auto Gruppe,Carl Detonator,77,80,77
-3,9,Grunt Auto Gruppe,Tyger Styles,45,INJURED,Port Miggins Pirates,Mikey Pwertoolz,70,85,84
-3,9,Port Miggins Pirates,Arbogast Flares,38,INJURED,Grunt Auto Gruppe,Georgie Cones,88,69,67
-3,9,Port Miggins Pirates,Arnie Hamburger,49,INJURED,Grunt Auto Gruppe,Bingo Hazmat,50,68,68
-3,9,Grunt Auto Gruppe,Barry Biceps,48,INJURED,Port Miggins Pirates,Pat Duplicitous,72,73,72
-3,9,Sportsball Union,Candy Wick,45,INJURED,Shady Palms,Jovial Impairment,80,66,65
-3,9,Sportsball Union,Java Tea,51,SEASON ENDING INJURY,Shady Palms,Jovial Impairment,80,65,63
-3,9,Shady Palms,Polly Babylon,34,INJURED,Sportsball Union,Jerp Cortex,69,70,69
-3,9,Sportsball Union,Spangles Hunkerdome,52,INJURED,Shady Palms,JJJ Schweitzer,93,74,75
-3,9,Steggonauts,Jack Flipacoin,36,SEASON ENDING INJURY,Picks Creek Miners,Rosemary Busted,79,72,70
-3,9,Steggonauts,Carlton Wonder,21,INJURED,Picks Creek Miners,Crank Virtue,59,71,68
-3,9,Picks Creek Miners,Claudia Dystopia,50,INJURED,Steggonauts,Hugo Blowfish,66,60,59
-3,9,Picks Creek Miners,Stentorian Pizzabox,48,INJURED,Steggonauts,Painful Grinding,70,69,67
-3,9,Picks Creek Miners,John Splinter,58,INJURED,Steggonauts,Painful Grinding,70,64,63
-3,9,Sunshine Funbus,Colt Rhombus,33,INJURED,Red Star Pathfinders,Hildigard Weasel,40,66,64
-3,9,Red Star Pathfinders,Tandy Appleseed,62,INJURED,Sunshine Funbus,Fritz Beermat,60,74,72
-3,9,Kernal Space Agency,Rock Hanz,57,INJURED,Eduslum Marching Band,Linn Mephisto,50,95,93
-3,9,Bulldozer Power,Jim Drunken,46,INJURED,LingoBlend Allstars,Ulysses Failure,93,62,60
-3,9,Failurewood Hills,Fromage Demijohn,53,INJURED,Fire Chefs,Kim Freightmaster,65,64,63
-3,9,Failurewood Hills,Vanessa Hammock,36,INJURED,Fire Chefs,Tobin Jocular,63,75,74
-3,9,Failurewood Hills,Desmond Eyeliner,34,INJURED,Fire Chefs,Percy Riots,78,80,78
-3,9,Failurewood Hills,Emanuel Weather-Cone,63,INJURED,Fire Chefs,Isla Monotheism,76,72,71
-3,9,Failurewood Hills,Justice Lemon,36,INJURED,Fire Chefs,Gretel Beget-Fancy,85,73,71
-3,9,Failurewood Hills,Rev Joe Hobo SR 69,60,KILLED,Fire Chefs,Isla Monotheism,76
-3,10,Vuvu Boys,Stabby Pete,56,INJURED,Grazer Ridge,Vicky Flamboyant,69,67,66
-3,10,Picks Creek Miners,Crank Virtue,63,INJURED,Toymasters,Logical Flambe,63,74,72
-3,10,Toymasters,Logical Flambe,73,INJURED,Picks Creek Miners,Rosemary Busted,92,49,48
-3,10,Toymasters,Claw Scratchboard,69,INJURED,Picks Creek Miners,Rosemary Busted,92,67,67
-3,10,Toymasters,Dr Goodsurgery,41,INJURED,Picks Creek Miners,Claudia Dystopia,56,61,60
-3,10,Steggonauts,Father Tempest,62,INJURED,Blood Pit Bouncers,Fred Singularity,91,75,73
-3,10,Steggonauts,Saul Mastif,44,INJURED,Blood Pit Bouncers,Clacton Express,42,75,73
-3,10,Sunshine Funbus,Rocket Bobby,53,INJURED,Failurewood Hills,Johan Tremendous,71,73,72
-3,10,Red Star Pathfinders,Horace Diamonds,48,INJURED,Sweaty Marsupials,Ruthie Spasms,38,62,59
-3,10,Fire Chefs,Isla Monotheism,42,INJURED,Grunt Auto Gruppe,Cherri Margarita,86,65,68,BOUNTY COLLECTED
-3,10,Fire Chefs,Bessie Grapeshot,47,SEASON ENDING INJURY,Grunt Auto Gruppe,Harriet Reflux,58,66,65
-3,10,LingoBlend Allstars,Jon The Plum,59,INJURED,Sportsball Union,Jackson Clowncar,54,76,75
-3,10,LingoBlend Allstars,Flora Dope,35,INJURED,Sportsball Union,Jackson Clowncar,54,57,56
-3,10,LingoBlend Allstars,Todd Baubles,58,INJURED,Sportsball Union,Kink Providence,63,65,63
-3,10,Nomads,Kim Selecta,38,INJURED,Eduslum Marching Band,Ron Bongos,96,73,71
-3,10,Stardozer HR,Ostentacious Smack,62,INJURED,Wizard Hole Wizards,Brad Adidas,79,77,76
-3,10,Wizard Hole Wizards,Eddie Progribniak,31,INJURED,Stardozer HR,Beelzebub Fastidious,97,73,71
-3,10,Stardozer HR,Emil Dada,39,INJURED,Wizard Hole Wizards,Mokka Badsun,64,69,69
-3,10,Volcamoose Saints,Saint Crabthorn,29,INJURED,Bumson Medics,Subbuteo Bongos,56,60,59
-3,10,Bumson Medics,Coughs Zerma,61,INJURED,Volcamoose Saints,Erlan Dickburg,75,67,64
-3,10,Beekeepers,David Concentrate,19,INJURED,Ov City Axemen,Wanda Bluepill,68,61,60
-3,10,Cheerio Inc,Alan Twerp,62,INJURED,Urrgmelonflex,Gail Scarlet-Roid,75,63,62
-3,10,Cheerio Inc,Robert Fondle SR 60,63,KILLED,Urrgmelonflex,Braendig Gladwin,83
-3,10,Bongolia Sea Raiders,Rudy Capslock,61,INJURED,Kernal Space Agency,K C Jones,71,78,77
-3,10,Kernal Space Agency,Olga Delerium,55,INJURED,Bongolia Sea Raiders,Paul Tribunal,54,62,60
-3,10,Port Miggins Pirates,Anthony Go,27,INJURED,Wretched Minstrels,Oscar Cattle-Prod,60,84,82
-3,10,Wretched Minstrels,Crash Zodiac,50,INJURED,Port Miggins Pirates,Jerry Surge,75,71,69
-3,10,Wretched Minstrels,Oscar Cattle-Prod,51,INJURED,Port Miggins Pirates,Kiki Tyrant,73,97,95
-3,10,Wretched Minstrels,Gillian Voidmonkey,66,INJURED,Port Miggins Pirates,Big Rod McGurk,72,69,68
-3,10,Wretched Minstrels,Chonk Olympics,72,INJURED,Port Miggins Pirates,Mikey Pwertoolz,70,71,69
-3,10,Shady Palms,Vera Gondolier,49,INJURED,Bulldozer Power,Steve Morrey,61,56,55
-3,10,Shady Palms,Sinbad Contract,52,INJURED,Bulldozer Power,Steve Morrey,61,68,66
-3,10,Shady Palms,Jovial Impairment,48,INJURED,Bulldozer Power,Zesty Lumber,69,60,58
-3,10,Bulldozer Power,Captain Fantastic,53,INJURED,Shady Palms,Bork Tesla,81,61,59
-3,11,Stardozer HR,Donut Crazy SR 80,33,KILLED,Wizard Hole Wizards,Barry Turnips,63
-3,11,Wizard Hole Wizards,Trip Hogwash,70,INJURED,Stardozer HR,David Onions,70,62,60
-3,11,Stardozer HR,Randall Frippery,42,INJURED,Wizard Hole Wizards,Whomping Willow,68,74,73
-3,11,Stardozer HR,Toothless Wonder,62,SEASON ENDING INJURY,Wizard Hole Wizards,Mokka Badsun,67,70,69
-3,11,Bumson Medics,Betsy Cthulhu,38,INJURED,Volcamoose Saints,Erlan Dickburg,75,63,61
-3,11,Ov City Axemen,Shandy Worthless,57,INJURED,Beekeepers,Ted Shirley,59,78,77
-3,11,Budget Roadies,Fenella ValuePack,39,INJURED,Peninsula Transport,Ben Turncoat,51,62,60
-3,11,Peninsula Transport,Hank Fungible,61,INJURED,Budget Roadies,Clamorous Thrapple,76,79,77
-3,11,Peninsula Transport,Klepp Bossmang,39,INJURED,Budget Roadies,Clamorous Thrapple,76,84,83
-3,11,Urrgmelonflex,Omar Pellegrino,35,INJURED,Cheerio Inc,Sanguine Pangs,67,64,62
-3,11,Urrgmelonflex,Anne-Marie Tidal-Poole,19,INJURED,Cheerio Inc,Vlad SoixenteSept,73,55,56
-3,11,Wretched Minstrels,Percival Hatred,25,INJURED,Port Miggins Pirates,Kiki Tyrant,87,84,83
-3,11,Sportsball Union,Kink Providence,68,INJURED,LingoBlend Allstars,Ulysses Failure,107,46,44
-3,11,LingoBlend Allstars,Jon The Plum,73,INJURED,Sportsball Union,Rafael Zeppelin,66,74,71
-3,11,Red Star Pathfinders,Hildigard Weasel SR 62,49,KILLED,Sweaty Marsupials,Helga Jumpjet,53
-3,11,Sweaty Marsupials,Speedball Jones,37,INJURED,Red Star Pathfinders,Thor Haystacks,38,64,62
-3,11,Sweaty Marsupials,Jerome Disquiet,35,INJURED,Red Star Pathfinders,Clive Goalmouth,37,63,61
-3,11,Failurewood Hills,Desmond Eyeliner,33,INJURED,Sunshine Funbus,Antonio Rojas,61,71,69
-3,11,Fire Chefs,Fred Beach,52,INJURED,Grunt Auto Gruppe,Cherri Margarita,86,63,62
-3,11,Grunt Auto Gruppe,Bikebreaker Billy,52,INJURED,Fire Chefs,Isla Monotheism,76,73,71
-3,11,Fire Chefs,Isla Monotheism,52,INJURED,Grunt Auto Gruppe,Georgie Cones,88,63,62
-3,11,Fire Chefs,Vivienne Crumble,44,INJURED,Grunt Auto Gruppe,Carl Detonator,77,74,73
-3,11,Fire Chefs,Tobin Jocular,90,INJURED,Grunt Auto Gruppe,Cherri Margarita,86,53,52
-3,11,Fire Chefs,Mindy Bleach,56,INJURED,Grunt Auto Gruppe,Cherri Margarita,86,65,63
-3,11,Grunt Auto Gruppe,Bingo Hazmat,61,INJURED,Fire Chefs,Percy Riots,78,83,81
-3,11,Nomads,Miss Florida 1997,60,SEASON ENDING INJURY,Eduslum Marching Band,Ron Bongos,96,84,82
-3,11,Eduslum Marching Band,Gus Hitman Resume,73,INJURED,Nomads,Crotch Dangleflag,76,70,69
-3,11,Nomads,Exponential Tyrone,89,INJURED,Eduslum Marching Band,Tarquin Bangfish,86,87,85
-3,11,Grazer Ridge,Barabas Void SR 68,64,KILLED,Vuvu Boys,Brandon Peril,72
-3,11,Grazer Ridge,Selma Mechwarrior,53,INJURED,Vuvu Boys,Horsten Saltblock,68,63,61
-3,11,Shady Palms,Rowan Izkeen,48,INJURED,Bulldozer Power,Steve Morrey,75,59,57
-3,11,Steggonauts,Benny Cheese,53,INJURED,Blood Pit Bouncers,Peter Brickwall,61,61,60
-3,11,Steggonauts,Saul Mastif,44,INJURED,Blood Pit Bouncers,Clacton Express,42,73,72
-3,12,Volcamoose Saints,Cogent Wang,64,INJURED,Red Star Pathfinders,Sahil Tasseldance,62,67,65
-3,12,Red Star Pathfinders,Thor Haystacks,35,INJURED,Volcamoose Saints,Erlan Dickburg,75,61,59
-3,12,Volcamoose Saints,Saint Crabthorn,29,INJURED,Red Star Pathfinders,Pope Lorenz,59,62,62
-3,12,Red Star Pathfinders,Sahil Tasseldance,49,SEASON ENDING INJURY,Volcamoose Saints,Zerwin Trumpet,62,54,53
-3,12,Bongolia Sea Raiders,Rudy Capslock,61,INJURED,Vuvu Boys,Brandon Peril,72,77,75
-3,12,Bongolia Sea Raiders,Mike Heimlich,59,INJURED,Vuvu Boys,Evan Doublehair,92,60,58
-3,12,Bongolia Sea Raiders,Ziggy Whippet,36,INJURED,Vuvu Boys,Bertha Raccoon,50,69,67
-3,12,Bongolia Sea Raiders,Jendrich Grippy,54,INJURED,Vuvu Boys,Evan Doublehair,92,72,71
-3,12,Cheerio Inc,Troy Oktoberfest,61,INJURED,Eduslum Marching Band,Gus Hitman Resume,90,72,75
-3,12,Cheerio Inc,Sanguine Pangs,82,INJURED,Eduslum Marching Band,Gus Hitman Resume,90,70,68
-3,12,Eduslum Marching Band,Surgeon General,78,INJURED,Cheerio Inc,Vlad SoixenteSept,73,66,61
-3,12,Fire Chefs,Kim Freightmaster,51,INJURED,Wizard Hole Wizards,Whomping Willow,68,81,78
-3,12,Fire Chefs,Isla Monotheism,52,INJURED,Wizard Hole Wizards,Barry Turnips,75,66,65
-3,12,Fire Chefs,Vivienne Crumble,43,INJURED,Wizard Hole Wizards,Tonya Spangle,77,73,71
-3,12,Sunshine Funbus,Rocket Bobby,53,INJURED,Picks Creek Miners,Crank Virtue,59,74,73
-3,12,Picks Creek Miners,Crank Virtue,45,INJURED,Sunshine Funbus,John Decaro,47,71,72
-3,12,Stardozer HR,Emil Dada,48,INJURED,Sportsball Union,Kink Providence,63,65,63
-3,12,Sportsball Union,Marcel LeJams,59,INJURED,Stardozer HR,David Onions,70,78,77
-3,12,Beekeepers,Rooster Views,37,INJURED,Sweaty Marsupials,Jossy Clickbait,75,50,50
-3,12,Blood Pit Bouncers,Glenda Bastard,70,INJURED,Port Miggins Pirates,Big Rod McGurk,98,81,80
-3,12,Steggonauts,Painful Grinding,67,INJURED,Failurewood Hills,Emanuel Weather-Cone,83,66,64
-3,12,Urrgmelonflex,Chicken Druid,60,INJURED,LingoBlend Allstars,Todd Baubles,51,58,57
-3,12,Budget Roadies,Drew Actionclump,30,INJURED,Nomads,Herr Bear,63,91,88
-3,12,Nomads,Ilma Shelfspace,52,INJURED,Budget Roadies,Capsicum Disco,55,65,63
-3,12,Grazer Ridge,Ominous Bob,77,INJURED,Grunt Auto Gruppe,Georgie Cones,88,64,63
-3,12,Bumson Medics,Baron Torquemada,37,INJURED,Wretched Minstrels,Fingers Vektrix,52,70,70
-3,12,Wretched Minstrels,Professor Fetom,42,INJURED,Bumson Medics,Subbuteo Bongos,56,56,65
-3,13,Volcamoose Saints,Bro Stank SR 57,38,KILLED,Wizard Hole Wizards,Whomping Willow,68
-3,13,Beekeepers,Ted Shirley,56,INJURED,Grazer Ridge,Karen Woman,59,64,61
-3,13,Beekeepers,Howl Halfmoon,49,SEASON ENDING INJURY,Grazer Ridge,Santino Bananas,80,39,47
-3,13,Beekeepers,Len Styrofoam,62,INJURED,Grazer Ridge,Earl Blackfinger,57,76,78
-3,13,Grazer Ridge,Nigel Prison,37,INJURED,Beekeepers,Minnie Sabotage,82,74,73,BOUNTY COLLECTED
-3,13,Beekeepers,Corina Very,88,INJURED,Grazer Ridge,Santino Bananas,80,57,54
-3,13,Cheerio Inc,Vlad SoixenteSept SR 59,50,KILLED,Vuvu Boys,Evan Doublehair,92
-3,13,Stardozer HR,Beelzebub Fastidious,59,INJURED,Blood Pit Bouncers,Fred Singularity,91,65,64
-3,13,Nomads,Herr Bear,59,INJURED,Sweaty Marsupials,Krag Franklin,72,65,63
-3,13,Port Miggins Pirates,Doug Conglomerate,48,INJURED,Shady Palms,JJJ Schweitzer,93,78,77
-3,13,Port Miggins Pirates,Arnie Hamburger,59,INJURED,Shady Palms,Spack Freely,69,68,65
-3,13,Red Star Pathfinders,Thor Haystacks,34,INJURED,Bongolia Sea Raiders,Bernard Dunk,52,57,56
-3,13,Red Star Pathfinders,Tandy Appleseed,62,INJURED,Bongolia Sea Raiders,Jez Schadenfreud,80,72,71
-3,13,Bongolia Sea Raiders,Bernard Dunk,51,INJURED,Red Star Pathfinders,Dirk Shafter,50,74,71
-3,13,Red Star Pathfinders,Horace Diamonds,47,INJURED,Bongolia Sea Raiders,Zoltan Zoltan,76,57,55
-3,13,Bongolia Sea Raiders,Paul Tribunal,57,INJURED,Red Star Pathfinders,Euston Flamberge,79,60,60
-3,13,Red Star Pathfinders,Grishnakh Jones SR 62,50,KILLED,Bongolia Sea Raiders,Jez Schadenfreud,80
-3,13,Toymasters,Benny Sausages,60,INJURED,Ov City Axemen,Cynthia Wrestling-Mask,74,69,68
-3,13,Toymasters,Dr Goodsurgery,41,INJURED,Ov City Axemen,Cynthia Wrestling-Mask,74,61,59
-3,13,Toymasters,Mildred Slippings,51,INJURED,Ov City Axemen,Cynthia Wrestling-Mask,74,65,62
-3,13,Grunt Auto Gruppe,Georgie Cones,61,INJURED,Eduslum Marching Band,Ron Bongos,96,67,65
-3,13,Grunt Auto Gruppe,Tyger Styles,48,INJURED,Eduslum Marching Band,Roughstuff Smith,47,85,84
-3,13,Steggonauts,Painful Grinding,67,INJURED,Budget Roadies,Drew Actionclump,66,73,71
-3,13,Steggonauts,Helmut Cenobite,40,INJURED,Budget Roadies,Capsicum Disco,69,72,70
-3,13,Bulldozer Power,Ed Big-Mother,64,INJURED,Failurewood Hills,Johan Tremendous,71,72,70
-3,13,Bulldozer Power,Fang Handlebars,45,INJURED,Failurewood Hills,Emanuel Weather-Cone,83,51,50
-3,13,Bulldozer Power,Polio Hairpin,45,INJURED,Failurewood Hills,Emanuel Weather-Cone,83,52,51
-3,14,Grazer Ridge,Stella Doit,59,INJURED,Wizard Hole Wizards,Whomping Willow,68,53,51
-3,14,Wizard Hole Wizards,Trent Wrestles,56,INJURED,Grazer Ridge,Santino Bananas,80,68,66
-3,14,Wizard Hole Wizards,Jetson Flange,43,SEASON ENDING INJURY,Grazer Ridge,Karen Woman,59,65,65
-3,14,Wizard Hole Wizards,Eddie Progribniak,31,INJURED,Grazer Ridge,Bacta Bunty,68,74,73
-3,14,Beekeepers,Ted Shirley,45,INJURED,Volcamoose Saints,Chris Biscuit,60,61,60
-3,14,Volcamoose Saints,Willy Fanfest SR 64,31,KILLED,Beekeepers,Minnie Sabotage,82
-3,14,Picks Creek Miners,Claudia Dystopia,50,INJURED,Budget Roadies,Job Scott Dunne,75,62,62
-3,14,Budget Roadies,Greta Truncheon,1,INJURED,Picks Creek Miners,Whiskers Camembert,64,54,53
-3,14,Urrgmelonflex,Braendig Gladwin,50,SEASON ENDING INJURY,Steggonauts,Painful Grinding,70,69,68
-3,14,Cheerio Inc,Sanguine Pangs,82,INJURED,Blood Pit Bouncers,Fred Singularity,91,64,62
-3,14,Shady Palms,JJJ Schweitzer,47,INJURED,Grunt Auto Gruppe,Harriet Reflux,58,81,80,BOUNTY COLLECTED
-3,14,Shady Palms,Flo Uzi,67,INJURED,Grunt Auto Gruppe,Cherri Margarita,86,55,54
-3,14,Shady Palms,Polly Babylon,34,INJURED,Grunt Auto Gruppe,Georgie Cones,88,69,68
-3,14,Sunshine Funbus,Ivor Horn,50,INJURED,Bongolia Sea Raiders,Jez Schadenfreud,95,71,70
-3,14,Vuvu Boys,Stabby Pete,56,INJURED,Stardozer HR,David Onions,70,74,73
-3,14,Stardozer HR,Emil Dada,48,INJURED,Vuvu Boys,Horsten Saltblock,68,66,64
-3,14,Port Miggins Pirates,Anthony Go,27,INJURED,Eduslum Marching Band,Gus Hitman Resume,90,80,78
-3,14,Port Miggins Pirates,Kiki Tyrant,29,INJURED,Eduslum Marching Band,Ron Bongos,96,75,73
-3,14,Port Miggins Pirates,Angie Railroad,67,INJURED,Eduslum Marching Band,Ron Bongos,96,77,76
-3,14,Eduslum Marching Band,Linn Mephisto,61,INJURED,Port Miggins Pirates,Big Rod McGurk,72,77,75
-3,14,Port Miggins Pirates,Pat Duplicitous,36,INJURED,Eduslum Marching Band,Gus Hitman Resume,90,67,67
-3,14,Sweaty Marsupials,Helga Jumpjet,65,INJURED,Sportsball Union,Kink Providence,63,59,58
-3,14,Toymasters,Dave Caustic,68,INJURED,Peninsula Transport,Gabe Transistor,73,82,81
-3,14,Peninsula Transport,Klepp Bossmang,39,INJURED,Toymasters,Pip Strobelight,75,80,78
-3,14,Fire Chefs,Gretel Beget-Fancy,56,INJURED,Bulldozer Power,Steve Morrey,75,60,59
-3,14,Red Star Pathfinders,Thor Haystacks,33,INJURED,LingoBlend Allstars,Hack Murphy,40,55,54
-3,14,Wretched Minstrels,Professor Fetom,55,INJURED,Nomads,Egon Sanction,72,69,68
-3,14,Wretched Minstrels,Chonk Olympics,72,INJURED,Nomads,Flatnose McQuirk,65,73,72
-3,14,Wretched Minstrels,Percival Hatred,25,INJURED,Nomads,Egon Sanction,72,79,78
-3,14,Wretched Minstrels,Fingers Vektrix,56,INJURED,Nomads,Exponential Tyrone,61,79,78
+3,1,Blood Pit Bouncers,Mighty Bouffant,71,60,65,SEASON ENDING INJURY,Beekeepers,Len Styrofoam,58,
+3,1,Grazer Ridge,Nigel Prison,61,83,46,INJURED,Peninsula Transport,Julio Lobster,82,
+3,1,Cheerio Inc,Myra Sacrifice,73,98,20,INJURED,Volcamoose Saints,Willy Fanfest,96,
+3,1,Bumson Medics,Martin Jackhammer,83,69,43,INJURED,Urrgmelonflex,Braendig Gladwin,67,
+3,1,Bumson Medics,Judy Conspiracy,83,59,29,INJURED,Urrgmelonflex,Braendig Gladwin,57,
+3,1,Urrgmelonflex,Chicken Druid,67,64,60,INJURED,Bumson Medics,Anger Panda,61,
+3,1,Vuvu Boys,Stabby Pete,66,68,57,INJURED,Budget Roadies,Drew Actionclump,67,
+3,1,Budget Roadies,Viscount Heat,72,72,55,INJURED,Vuvu Boys,Brandon Peril,71,
+3,1,Vuvu Boys,Bernie Mistakes,73,63,53,INJURED,Budget Roadies,Henni Duplex,62,
+3,1,Vuvu Boys,Evan Doublehair,55,83,48,INJURED,Budget Roadies,Capsicum Disco,82,
+3,1,Toymasters,Justin Underworld,58,84,39,INJURED,Wizard Hole Wizards,Plastic Vicar,82,
+3,1,Toymasters,Tag Evil-Couch,93,,22,KILLED,Wizard Hole Wizards,Fink Conduct,46,
+3,1,Toymasters,Pip Strobelight,79,76,47,INJURED,Wizard Hole Wizards,Mokka Badsun,75,
+3,1,Stardozer HR,Picasso Middle-Eight,70,,32,KILLED,Picks Creek Miners,Stentorian Pizzabox,51,
+3,1,Stardozer HR,Father Tempest,59,77,63,INJURED,Picks Creek Miners,Crank Virtue,76,
+3,1,Picks Creek Miners,Tristram Lawnmower,73,71,63,INJURED,Stardozer HR,John Baritone,70,
+3,1,Picks Creek Miners,Whiskers Camembert,73,67,21,INJURED,Stardozer HR,John Baritone,65,
+3,1,Shady Palms,Jovial Impairment,72,64,48,INJURED,Sweaty Marsupials,Krag Franklin,62,
+3,1,Sweaty Marsupials,Sulk Fundament,77,61,50,INJURED,Shady Palms,Polly Babylon,60,
+3,1,Wretched Minstrels,Percival Hatred,57,86,26,INJURED,Bongolia Sea Raiders,Ziggy Whippet,84,
+3,1,Bongolia Sea Raiders,Ziggy Whippet,64,75,37,INJURED,Wretched Minstrels,Pitbull Jones,74,
+3,1,Wretched Minstrels,Oscar Cattle-Prod,65,94,42,INJURED,Bongolia Sea Raiders,Zoltan Zoltan,93,BOUNTY COLLECTED
+3,1,Fire Chefs,Poster Roy,40,60,38,INJURED,LingoBlend Allstars,Hack Murphy,59,
+3,1,LingoBlend Allstars,Flora Dope,63,61,36,INJURED,Fire Chefs,Ingrid Matrix,59,
+3,1,LingoBlend Allstars,Barbara Joy-Joy,48,57,46,INJURED,Fire Chefs,Kim Freightmaster,55,
+3,1,Red Star Pathfinders,Horace Diamonds,63,67,50,INJURED,Bulldozer Power,Surgeon General,66,
+3,1,Kernal Space Agency,Bugeye Seizure,70,63,72,INJURED,Port Miggins Pirates,Mikey Pwertoolz,60,
+3,1,Grunt Auto Gruppe,Sue Humpin,72,66,57,INJURED,Sportsball Union,Mervyn Pinerider,64,
+3,1,Failurewood Hills,Butterfly Porkchop,71,59,50,INJURED,Eduslum Marching Band,Gustav Shank,57,
+3,1,Failurewood Hills,Desmond Eyeliner,90,78,35,INJURED,Eduslum Marching Band,Gus Hitman Resume,77,
+3,2,Ov City Axemen,Chubs Beaver,75,73,32,INJURED,Volcamoose Saints,Erlan Dickburg,72,
+3,2,Wizard Hole Wizards,Trip Hogwash,92,61,70,INJURED,Vuvu Boys,Evan Doublehair,59,
+3,2,Vuvu Boys,Stabby Pete,79,65,44,INJURED,Wizard Hole Wizards,Brad Adidas,69,
+3,2,Wizard Hole Wizards,Fink Conduct,92,76,41,INJURED,Vuvu Boys,Evan Doublehair,75,
+3,2,Stardozer HR,Father Tempest,80,76,63,INJURED,Grazer Ridge,Santino Bananas,75,
+3,2,Sunshine Funbus,Antonio Rojas,76,61,39,INJURED,Kernal Space Agency,Tongo Coriander,60,
+3,2,Sunshine Funbus,Saturn Mist,63,62,55,INJURED,Kernal Space Agency,Olga Delerium,67,
+3,2,Sunshine Funbus,Colt Rhombus,63,64,33,INJURED,Kernal Space Agency,Olga Delerium,62,
+3,2,Toymasters,Mo Foul,55,,62,KILLED,Budget Roadies,Henni Duplex,73,
+3,2,Budget Roadies,Christa Lemonade,66,70,64,INJURED,Toymasters,Dave Caustic,74,
+3,2,Shady Palms,Crystal Temple-Meads,70,,44,KILLED,Fire Chefs,Isla Monotheism,91,
+3,2,Blood Pit Bouncers,Kojak Mysteron,83,69,19,INJURED,Urrgmelonflex,Braendig Gladwin,68,
+3,2,Grunt Auto Gruppe,Georgie Cones,75,69,61,INJURED,Bulldozer Power,Steve Morrey,67,
+3,2,Grunt Auto Gruppe,Cherri Margarita,75,78,61,INJURED,Bulldozer Power,Steve Morrey,76,
+3,2,LingoBlend Allstars,Flora Dope,83,57,36,INJURED,Sweaty Marsupials,Candy Wick,55,
+3,2,LingoBlend Allstars,Shade Darkcave,60,51,44,INJURED,Sweaty Marsupials,Fritz Beermat,53,
+3,2,LingoBlend Allstars,Todd Baubles,60,64,58,INJURED,Sweaty Marsupials,Fritz Beermat,63,
+3,2,Sweaty Marsupials,Candy Wick,40,63,45,INJURED,LingoBlend Allstars,Hack Murphy,61,
+3,2,Steggonauts,Michael Poems,64,54,41,INJURED,Cheerio Inc,Robert Fondle,53,
+3,2,Cheerio Inc,Robert Fondle,80,66,63,INJURED,Steggonauts,Benny Cheese,65,
+3,2,Cheerio Inc,Troy Oktoberfest,85,75,73,INJURED,Steggonauts,David Onions,75,
+3,2,Sportsball Union,Mervyn Pinerider,52,63,59,INJURED,Red Star Pathfinders,Horace Diamonds,62,
+3,2,Eduslum Marching Band,Kit Katz,74,59,72,INJURED,Wretched Minstrels,Ben Radical,58,
+3,2,Wretched Minstrels,Ben Radical,78,72,78,INJURED,Eduslum Marching Band,Anna Linguistic,70,
+3,2,Wretched Minstrels,Percival Hatred,66,90,22,INJURED,Eduslum Marching Band,Linn Mephisto,90,
+3,2,Wretched Minstrels,Pitbull Jones,66,74,50,SEASON ENDING INJURY,Eduslum Marching Band,Linn Mephisto,69,
+3,3,Beekeepers,Dirty Woods,34,67,41,INJURED,Bumson Medics,Martin Jackhammer,67,
+3,3,Wizard Hole Wizards,Nova Wild,72,52,54,INJURED,Vuvu Boys,Brandon Peril,52,
+3,3,Vuvu Boys,Evan Doublehair,79,82,48,INJURED,Wizard Hole Wizards,Brad Adidas,80,
+3,3,Wizard Hole Wizards,Barry Turnips,68,74,67,INJURED,Vuvu Boys,Horsten Saltblock,74,BOUNTY COLLECTED
+3,3,Vuvu Boys,Horsten Saltblock,79,67,74,INJURED,Wizard Hole Wizards,Mokka Badsun,66,
+3,3,Ov City Axemen,Wanda Bluepill,68,74,62,INJURED,Volcamoose Saints,Mary Ruthless,70,
+3,3,Toymasters,Dave Caustic,76,83,69,INJURED,Budget Roadies,Drew Actionclump,82,
+3,3,Picks Creek Miners,Stentorian Pizzabox,51,70,36,INJURED,Peninsula Transport,Ben Turncoat,70,
+3,3,Peninsula Transport,Klepp Bossmang,49,75,39,INJURED,Picks Creek Miners,John Splinter,74,
+3,3,Steggonauts,Michael Poems,69,59,41,INJURED,Cheerio Inc,Alan Twerp,58,
+3,3,Bulldozer Power,Ed Big-Mother,86,70,64,INJURED,Grunt Auto Gruppe,Cherri Margarita,70,
+3,3,Bulldozer Power,Ron Bongos,65,72,46,INJURED,Grunt Auto Gruppe,Tyger Styles,71,
+3,3,Grunt Auto Gruppe,Cherri Margarita,75,74,61,INJURED,Bulldozer Power,Steve Morrey,73,
+3,3,Failurewood Hills,Emanuel Weather-Cone,82,76,63,INJURED,Bongolia Sea Raiders,Hunter Marigold,75,
+3,3,Stardozer HR,Painful Grinding,80,67,67,INJURED,Grazer Ridge,Santino Bananas,66,
+3,3,Shady Palms,Polly Babylon,48,64,34,INJURED,Fire Chefs,Kim Freightmaster,62,
+3,3,Wretched Minstrels,Professor Fetom,92,68,58,INJURED,Eduslum Marching Band,Kit Katz,67,
+3,3,Wretched Minstrels,Bonky Rhino,92,77,57,INJURED,Eduslum Marching Band,Kit Katz,75,
+3,3,Eduslum Marching Band,Bob Roquefort,44,65,39,INJURED,Wretched Minstrels,Oscar Cattle-Prod,63,
+3,3,Wretched Minstrels,Chonk Olympics,78,74,72,INJURED,Eduslum Marching Band,Anna Linguistic,73,
+3,3,Eduslum Marching Band,Anna Linguistic,53,72,58,SEASON ENDING INJURY,Wretched Minstrels,Helga Jumpjet,70,
+3,3,LingoBlend Allstars,Warren Frag,72,84,68,INJURED,Sweaty Marsupials,Krag Franklin,80,
+3,4,Sportsball Union,Mervyn Pinerider,54,55,47,SEASON ENDING INJURY,Picks Creek Miners,Pamela Mustard,60,
+3,4,Ov City Axemen,Buttercup Gunns,71,86,51,INJURED,Failurewood Hills,Johan Tremendous,85,BOUNTY COLLECTED
+3,4,Failurewood Hills,Desmond Eyeliner,51,77,35,INJURED,Ov City Axemen,Shandy Worthless,76,
+3,4,Wretched Minstrels,Chonk Olympics,71,73,72,INJURED,Beekeepers,Len Styrofoam,72,
+3,4,Wretched Minstrels,Helga Jumpjet,67,62,65,INJURED,Beekeepers,Hippy Impact,60,
+3,4,Eduslum Marching Band,Bautista Cranium,68,71,51,INJURED,Vuvu Boys,Horsten Saltblock,70,
+3,4,Bongolia Sea Raiders,Paul Tribunal,70,63,57,INJURED,Steggonauts,David Onions,61,
+3,4,Cheerio Inc,Myra Sacrifice,37,89,20,INJURED,Shady Palms,Tintin Hollywood,87,
+3,4,Kernal Space Agency,Jeff Conservative,55,58,30,SEASON ENDING INJURY,Budget Roadies,Capsicum Disco,56,
+3,4,Kernal Space Agency,Tongo Coriander,76,68,37,INJURED,Budget Roadies,Clamorous Thrapple,69,
+3,4,Toymasters,Pip Strobelight,76,70,46,INJURED,Fire Chefs,Isla Monotheism,69,
+3,4,Fire Chefs,Poster Roy,59,,38,KILLED,Toymasters,Justin Underworld,43,
+3,4,Wizard Hole Wizards,Fink Conduct,44,75,41,INJURED,Nomads,Bird Dogg,72,
+3,4,Nomads,Kim Selecta,55,75,38,INJURED,Wizard Hole Wizards,Eddie Progribniak,75,
+3,4,Wizard Hole Wizards,Barry Turnips,74,78,66,INJURED,Nomads,Razzad Fowler,79,BOUNTY COLLECTED
+3,4,Nomads,Flinty Wimple,67,66,49,INJURED,Wizard Hole Wizards,Mokka Badsun,64,
+3,4,LingoBlend Allstars,Jenny J Sonar,73,54,55,INJURED,Stardozer HR,John Baritone,53,
+3,4,Urrgmelonflex,Anne-Marie Tidal-Poole,75,58,34,INJURED,Port Miggins Pirates,Jerry Surge,56,
+3,4,Sweaty Marsupials,Krag Franklin,91,70,85,INJURED,Blood Pit Bouncers,Fred Singularity,68,
+3,4,Sweaty Marsupials,Ruthie Spasms,91,73,67,INJURED,Blood Pit Bouncers,Fred Singularity,72,
+3,4,Blood Pit Bouncers,Ramiro Pleasuredome,83,80,60,INJURED,Sweaty Marsupials,Candy Wick,80,
+3,4,Blood Pit Bouncers,Hermione Crumplezone,83,60,76,INJURED,Sweaty Marsupials,Candy Wick,58,
+3,4,Bulldozer Power,Quebec Spire,75,68,74,SEASON ENDING INJURY,Volcamoose Saints,Erlan Dickburg,66,
+3,4,Red Star Pathfinders,Horace Diamonds,80,61,49,INJURED,Grazer Ridge,Santino Bananas,59,
+3,4,Red Star Pathfinders,Clive Goalmouth,65,66,64,INJURED,Grazer Ridge,Dick Minor,65,
+3,4,Bumson Medics,Rorke Justice,86,57,34,INJURED,Grunt Auto Gruppe,Cherri Margarita,56,
+3,4,Bumson Medics,Bandit Joe,58,73,0,INJURED,Grunt Auto Gruppe,Harriet Reflux,73,
+3,4,Bumson Medics,Bambi Severe,64,66,66,INJURED,Grunt Auto Gruppe,Sue Humpin,65,
+3,4,Sunshine Funbus,Antonio Rojas,36,68,39,INJURED,Peninsula Transport,Hank Fungible,67,
+3,5,Grunt Auto Gruppe,Cherri Margarita,60,73,60,INJURED,Volcamoose Saints,Chris Biscuit,71,
+3,5,Wizard Hole Wizards,Trip Hogwash,80,59,70,INJURED,Shady Palms,Jovial Impairment,57,
+3,5,Wizard Hole Wizards,Nova Wild,81,50,53,INJURED,Shady Palms,Bork Tesla,48,
+3,5,Shady Palms,Jovial Impairment,75,64,48,INJURED,Wizard Hole Wizards,Barry Turnips,62,
+3,5,Wizard Hole Wizards,Fink Conduct,93,73,41,INJURED,Shady Palms,JJJ Schweitzer,72,
+3,5,Shady Palms,Herman Direwolf,68,62,56,INJURED,Wizard Hole Wizards,Whomping Willow,61,
+3,5,Budget Roadies,Drew Actionclump,63,93,30,INJURED,Fire Chefs,Tobin Jocular,92,
+3,5,Budget Roadies,Viscount Heat,63,65,55,INJURED,Fire Chefs,Tobin Jocular,64,
+3,5,Fire Chefs,Kim Freightmaster,58,84,39,INJURED,Budget Roadies,Henk Vengeance,82,
+3,5,Nomads,Olivia Chaka-Khan,100,65,44,INJURED,Peninsula Transport,Wendi Drugs,63,
+3,5,Picks Creek Miners,Stentorian Pizzabox,70,70,49,INJURED,Kernal Space Agency,Charlie Choo Choo,69,
+3,5,Urrgmelonflex,Gail Scarlet-Roid,66,54,39,INJURED,Sportsball Union,Rafael Zeppelin,62,
+3,5,Wretched Minstrels,Chonk Olympics,80,72,72,INJURED,Grazer Ridge,Santino Bananas,71,
+3,5,Sweaty Marsupials,Candy Wick,70,65,45,INJURED,Bumson Medics,Coughs Zerma,63,
+3,5,Toymasters,Seedy Sea,92,62,75,INJURED,Eduslum Marching Band,Kit Katz,60,
+3,5,Toymasters,Pablo Elastaplast,90,65,64,INJURED,Eduslum Marching Band,Gus Hitman Resume,63,
+3,5,Cheerio Inc,Myra Sacrifice,74,87,20,INJURED,Bongolia Sea Raiders,Mr Smithers,84,
+3,5,Vuvu Boys,Stabby Pete,79,73,56,INJURED,Failurewood Hills,Lancelot Bonanza,72,
+3,5,Bulldozer Power,Surgeon General,67,61,52,INJURED,Steggonauts,Benny Cheese,65,
+3,5,Bulldozer Power,Ron Bongos,70,78,43,INJURED,Steggonauts,Larry Splendid,77,
+3,5,Bulldozer Power,Claudia Dystopia,62,59,50,INJURED,Steggonauts,Barry Science,57,
+3,5,Bulldozer Power,Julius Hardware,49,61,36,INJURED,Steggonauts,Saul Mastif,59,
+3,5,Ov City Axemen,Chubs Beaver,52,72,31,INJURED,Red Star Pathfinders,Horace Diamonds,71,
+3,5,Ov City Axemen,Buttercup Gunns,52,75,36,INJURED,Red Star Pathfinders,Horace Diamonds,80,BOUNTY COLLECTED
+3,5,Red Star Pathfinders,Clive Goalmouth,86,74,64,INJURED,Ov City Axemen,Tarquin Bangfish,72,
+3,6,Toymasters,Benny Sausages,100,67,60,INJURED,Peninsula Transport,Wendi Drugs,66,
+3,6,Toymasters,Pablo Elastaplast,79,69,63,INJURED,Peninsula Transport,Eddie Brazil,68,
+3,6,Urrgmelonflex,Omar Pellegrino,70,70,35,INJURED,Steggonauts,David Onions,70,
+3,6,Blood Pit Bouncers,Glenda Bastard,67,82,70,INJURED,Cheerio Inc,Sanguine Pangs,80,
+3,6,Cheerio Inc,Troy Oktoberfest,91,77,73,INJURED,Blood Pit Bouncers,Fred Singularity,75,
+3,6,Failurewood Hills,Lancelot Bonanza,82,,64,KILLED,Kernal Space Agency,K C Jones,71,
+3,6,Eduslum Marching Band,Tarquin Bangfish,70,75,76,INJURED,Port Miggins Pirates,Mikey Pwertoolz,69,
+3,6,Eduslum Marching Band,Roughstuff Smith,74,70,19,INJURED,Port Miggins Pirates,Doug Conglomerate,69,
+3,6,Beekeepers,Hippy Impact,73,78,76,INJURED,Volcamoose Saints,Willy Fanfest,77,
+3,6,Beekeepers,Daxxter Hijack,63,70,41,INJURED,Volcamoose Saints,Erlan Dickburg,70,
+3,6,Volcamoose Saints,Saint Crabthorn,82,65,29,INJURED,Beekeepers,Minnie Sabotage,64,
+3,6,Beekeepers,Hank Massive,75,64,61,INJURED,Volcamoose Saints,Chris Biscuit,63,
+3,6,Volcamoose Saints,Erlan Dickburg,71,81,68,INJURED,Beekeepers,Len Styrofoam,78,
+3,6,Beekeepers,Celia Parole,73,70,67,INJURED,Volcamoose Saints,Willy Fanfest,63,
+3,6,Stardozer HR,Donut Crazy,92,83,33,INJURED,Vuvu Boys,Evan Doublehair,82,
+3,6,Shady Palms,Bork Tesla,86,66,54,INJURED,Grunt Auto Gruppe,Cherri Margarita,64,
+3,6,Grunt Auto Gruppe,Bingo Hazmat,73,85,61,INJURED,Shady Palms,Royston Arkansas,83,
+3,6,Shady Palms,Royston Arkansas,65,61,46,SEASON ENDING INJURY,Grunt Auto Gruppe,Tyger Styles,59,
+3,6,Picks Creek Miners,Whiskers Camembert,55,71,21,INJURED,Budget Roadies,Capsicum Disco,69,
+3,6,Wizard Hole Wizards,Tonya Spangle,80,55,65,INJURED,Grazer Ridge,Santino Bananas,54,
+3,6,Sportsball Union,Jackson Clowncar,83,105,50,INJURED,Sweaty Marsupials,Candy Wick,103,
+3,6,Sweaty Marsupials,Candy Wick,86,60,13,INJURED,Sportsball Union,Java Tea,61,
+3,6,Wretched Minstrels,Ben Radical,79,70,78,INJURED,Nomads,Herr Bear,68,
+3,6,Wretched Minstrels,Professor Fetom,72,72,57,INJURED,Nomads,Egon Sanction,70,
+3,6,Wretched Minstrels,Helga Jumpjet,76,60,65,INJURED,Nomads,Crotch Dangleflag,59,
+3,6,Fire Chefs,Bruce Kapok,71,,56,KILLED,Bulldozer Power,Ron Bongos,96,
+3,6,Fire Chefs,Isla Monotheism,75,64,42,INJURED,Bulldozer Power,Steve Morrey,65,BOUNTY COLLECTED
+3,6,Bulldozer Power,Judy Conspiracy,78,64,35,INJURED,Fire Chefs,Percy Riots,61,
+3,6,Bulldozer Power,Stuntworth Friendly,63,,61,KILLED,Fire Chefs,Percy Riots,78,
+3,7,Grunt Auto Gruppe,Tyger Styles,63,91,45,INJURED,Ov City Axemen,Shandy Worthless,90,
+3,7,Ov City Axemen,Trellis Cosmic,86,70,81,INJURED,Grunt Auto Gruppe,Cherri Margarita,66,
+3,7,Red Star Pathfinders,Papal Event-Horizon,53,53,33,INJURED,Steggonauts,Constance Frenzy,51,
+3,7,Red Star Pathfinders,Tandy Appleseed,102,79,63,INJURED,Steggonauts,Furious Spongbath,77,
+3,7,Red Star Pathfinders,Thor Haystacks,62,59,36,INJURED,Steggonauts,Barry Science,58,
+3,7,Eduslum Marching Band,Tarquin Bangfish,77,70,62,INJURED,Wizard Hole Wizards,Tonya Spangle,69,
+3,7,Eduslum Marching Band,Bautista Cranium,79,74,51,INJURED,Wizard Hole Wizards,Mokka Badsun,72,
+3,7,Budget Roadies,Christa Lemonade,81,70,76,INJURED,Shady Palms,Bork Tesla,69,
+3,7,Shady Palms,Polly Babylon,55,62,34,INJURED,Budget Roadies,Capsicum Disco,61,
+3,7,Budget Roadies,Henni Duplex,70,,54,KILLED,Shady Palms,JJJ Schweitzer,93,
+3,7,Budget Roadies,Viscount Heat,80,64,54,INJURED,Shady Palms,Jovial Impairment,63,
+3,7,Shady Palms,Spack Freely,66,72,73,INJURED,Budget Roadies,Drew Actionclump,69,
+3,7,Budget Roadies,Drew Actionclump,60,96,30,INJURED,Shady Palms,Sinbad Contract,95,
+3,7,Nomads,Crotch Dangleflag,79,59,61,INJURED,Picks Creek Miners,Rosemary Busted,58,
+3,7,Nomads,Herr Bear,79,67,59,INJURED,Picks Creek Miners,Rosemary Busted,66,
+3,7,Beekeepers,Daxxter Hijack,76,68,53,INJURED,LingoBlend Allstars,Warren Frag,65,
+3,7,Beekeepers,Bola Introvert,76,63,29,INJURED,LingoBlend Allstars,Warren Frag,61,
+3,7,LingoBlend Allstars,Hack Murphy,67,75,46,INJURED,Beekeepers,Hippy Impact,74,
+3,7,Beekeepers,Mickal Pickle,93,61,46,INJURED,LingoBlend Allstars,Ulysses Failure,60,
+3,7,Kernal Space Agency,Tongo Coriander,85,71,58,INJURED,Stardozer HR,Beelzebub Fastidious,69,
+3,7,Sunshine Funbus,Saturn Mist,75,67,69,INJURED,Urrgmelonflex,Gail Scarlet-Roid,66,
+3,7,Sunshine Funbus,Beaman Hurricane,52,62,24,INJURED,Urrgmelonflex,Flapjack Nope,62,
+3,7,Toymasters,Justin Underworld,70,85,39,INJURED,Bongolia Sea Raiders,Rudy Capslock,84,
+3,7,Toymasters,Dave Caustic,65,78,69,INJURED,Bongolia Sea Raiders,Zoltan Zoltan,75,
+3,7,Fire Chefs,Bessie Grapeshot,100,67,47,INJURED,Peninsula Transport,Wendi Drugs,66,
+3,7,Fire Chefs,Mindy Bleach,100,70,57,INJURED,Peninsula Transport,Wendi Drugs,68,
+3,7,Vuvu Boys,Bertha Raccoon,96,75,67,INJURED,Bulldozer Power,Ron Bongos,73,
+3,7,Wretched Minstrels,Bonky Rhino,75,71,57,SEASON ENDING INJURY,Volcamoose Saints,Erlan Dickburg,69,
+3,7,Wretched Minstrels,Gillian Voidmonkey,75,67,66,INJURED,Volcamoose Saints,Erlan Dickburg,65,
+3,8,Peninsula Transport,Klepp Bossmang,84,74,39,INJURED,Cheerio Inc,Donna Baps,73,
+3,8,Volcamoose Saints,Saint Crabthorn,54,64,29,INJURED,Blood Pit Bouncers,Frank Trombone,63,
+3,8,Volcamoose Saints,Cogent Wang,91,62,51,INJURED,Blood Pit Bouncers,Fred Singularity,62,
+3,8,Picks Creek Miners,Claudia Dystopia,50,57,50,INJURED,Vuvu Boys,Bertha Raccoon,55,
+3,8,Sunshine Funbus,Antonio Rojas,44,56,39,INJURED,Wretched Minstrels,Percival Hatred,55,
+3,8,Sunshine Funbus,Fritz Beermat,57,58,67,INJURED,Wretched Minstrels,Professor Fetom,58,
+3,8,Sunshine Funbus,Beaman Hurricane,45,57,43,INJURED,Wretched Minstrels,Chonk Olympics,54,
+3,8,Port Miggins Pirates,Jerry Surge,71,57,63,INJURED,Failurewood Hills,Johan Tremendous,56,
+3,8,Failurewood Hills,Butterfly Porkchop,62,,56,KILLED,Port Miggins Pirates,Kiki Tyrant,87,
+3,8,Failurewood Hills,Kirk McTwist,70,59,75,INJURED,Port Miggins Pirates,Mikey Pwertoolz,56,
+3,8,Failurewood Hills,Emanuel Weather-Cone,70,75,63,INJURED,Port Miggins Pirates,Mikey Pwertoolz,74,
+3,8,Sweaty Marsupials,Tipsy Jack,88,57,52,INJURED,Grunt Auto Gruppe,Georgie Cones,55,
+3,8,Sweaty Marsupials,Helga Jumpjet,64,64,65,INJURED,Grunt Auto Gruppe,Sue Humpin,63,
+3,8,Grunt Auto Gruppe,Harriet Reflux,72,65,61,INJURED,Sweaty Marsupials,Krag Franklin,63,
+3,8,Bongolia Sea Raiders,Ziggy Whippet,77,74,37,INJURED,Shady Palms,Polly Babylon,71,
+3,8,Shady Palms,Polly Babylon,75,69,34,INJURED,Bongolia Sea Raiders,Jendrich Grippy,67,
+3,8,Bumson Medics,Bandit Joe,70,64,15,INJURED,Steggonauts,David Onions,62,
+3,8,Bumson Medics,Coughs Zerma,70,74,61,INJURED,Steggonauts,David Onions,71,
+3,8,Urrgmelonflex,Gail Scarlet-Roid,75,57,56,INJURED,Wizard Hole Wizards,Barry Turnips,57,
+3,8,Urrgmelonflex,Braendig Gladwin,79,79,50,INJURED,Wizard Hole Wizards,Mokka Badsun,77,
+3,8,Urrgmelonflex,Bradley Coma,79,42,51,INJURED,Wizard Hole Wizards,Mokka Badsun,41,
+3,8,Beekeepers,Bola Introvert,59,,29,KILLED,Budget Roadies,Capsicum Disco,55,
+3,8,Budget Roadies,Fenella ValuePack,82,63,39,INJURED,Beekeepers,Minnie Sabotage,62,
+3,8,Budget Roadies,Drew Actionclump,64,98,33,INJURED,Beekeepers,Hank Massive,97,
+3,8,Beekeepers,Rolf Henchucker,69,65,54,INJURED,Budget Roadies,Capsicum Disco,64,
+3,8,Stardozer HR,Ostentacious Smack,68,75,62,INJURED,Ov City Axemen,Wanda Bluepill,73,
+3,8,LingoBlend Allstars,Zimski Tabulate,90,59,66,INJURED,Eduslum Marching Band,Gus Hitman Resume,57,
+3,9,Urrgmelonflex,Chicken Druid,68,66,60,INJURED,Ov City Axemen,Wanda Bluepill,64,
+3,9,Peninsula Transport,Cordelia Benzedrine,79,77,51,INJURED,Wizard Hole Wizards,Mokka Badsun,76,
+3,9,Wizard Hole Wizards,Fink Conduct,72,,41,KILLED,Peninsula Transport,Trayce Attitude,52,
+3,9,Wizard Hole Wizards,Tonya Spangle,80,53,64,INJURED,Peninsula Transport,Diego ASMR,52,
+3,9,Peninsula Transport,MC Kaiser Extreme,75,67,62,INJURED,Wizard Hole Wizards,Barry Turnips,65,
+3,9,Cheerio Inc,Myra Sacrifice,82,84,20,INJURED,Beekeepers,Minnie Sabotage,83,
+3,9,Stardozer HR,Randall Frippery,55,69,42,INJURED,Budget Roadies,Capsicum Disco,67,
+3,9,Sweaty Marsupials,Jossy Clickbait,62,64,51,INJURED,Wretched Minstrels,Ryan McNiece,63,
+3,9,Nomads,Kim Selecta,94,78,38,INJURED,Bongolia Sea Raiders,Hunter Marigold,76,
+3,9,Bongolia Sea Raiders,Hunter Marigold,64,,54,KILLED,Nomads,Herr Bear,79,
+3,9,Nomads,Herr Bear,58,70,59,INJURED,Bongolia Sea Raiders,Vera Contagion,69,
+3,9,Grunt Auto Gruppe,Harriet Reflux,72,63,60,INJURED,Port Miggins Pirates,Big Rod McGurk,62,
+3,9,Grunt Auto Gruppe,Sue Humpin,70,63,56,INJURED,Port Miggins Pirates,Mikey Pwertoolz,62,
+3,9,Grunt Auto Gruppe,Karin Hair,75,73,55,INJURED,Port Miggins Pirates,Jerry Surge,72,
+3,9,Port Miggins Pirates,Doug Conglomerate,77,80,60,INJURED,Grunt Auto Gruppe,Carl Detonator,77,
+3,9,Grunt Auto Gruppe,Tyger Styles,70,85,45,INJURED,Port Miggins Pirates,Mikey Pwertoolz,84,
+3,9,Port Miggins Pirates,Arbogast Flares,88,69,38,INJURED,Grunt Auto Gruppe,Georgie Cones,67,
+3,9,Port Miggins Pirates,Arnie Hamburger,50,68,49,INJURED,Grunt Auto Gruppe,Bingo Hazmat,68,
+3,9,Grunt Auto Gruppe,Barry Biceps,72,73,48,INJURED,Port Miggins Pirates,Pat Duplicitous,72,
+3,9,Sportsball Union,Candy Wick,80,66,45,INJURED,Shady Palms,Jovial Impairment,65,
+3,9,Sportsball Union,Java Tea,80,65,51,SEASON ENDING INJURY,Shady Palms,Jovial Impairment,63,
+3,9,Shady Palms,Polly Babylon,69,70,34,INJURED,Sportsball Union,Jerp Cortex,69,
+3,9,Sportsball Union,Spangles Hunkerdome,93,74,52,INJURED,Shady Palms,JJJ Schweitzer,75,
+3,9,Steggonauts,Jack Flipacoin,79,72,36,SEASON ENDING INJURY,Picks Creek Miners,Rosemary Busted,70,
+3,9,Steggonauts,Carlton Wonder,59,71,21,INJURED,Picks Creek Miners,Crank Virtue,68,
+3,9,Picks Creek Miners,Claudia Dystopia,66,60,50,INJURED,Steggonauts,Hugo Blowfish,59,
+3,9,Picks Creek Miners,Stentorian Pizzabox,70,69,48,INJURED,Steggonauts,Painful Grinding,67,
+3,9,Picks Creek Miners,John Splinter,70,64,58,INJURED,Steggonauts,Painful Grinding,63,
+3,9,Sunshine Funbus,Colt Rhombus,40,66,33,INJURED,Red Star Pathfinders,Hildigard Weasel,64,
+3,9,Red Star Pathfinders,Tandy Appleseed,60,74,62,INJURED,Sunshine Funbus,Fritz Beermat,72,
+3,9,Kernal Space Agency,Rock Hanz,50,95,57,INJURED,Eduslum Marching Band,Linn Mephisto,93,
+3,9,Bulldozer Power,Jim Drunken,93,62,46,INJURED,LingoBlend Allstars,Ulysses Failure,60,
+3,9,Failurewood Hills,Fromage Demijohn,65,64,53,INJURED,Fire Chefs,Kim Freightmaster,63,
+3,9,Failurewood Hills,Vanessa Hammock,63,75,36,INJURED,Fire Chefs,Tobin Jocular,74,
+3,9,Failurewood Hills,Desmond Eyeliner,78,80,34,INJURED,Fire Chefs,Percy Riots,78,
+3,9,Failurewood Hills,Emanuel Weather-Cone,76,72,63,INJURED,Fire Chefs,Isla Monotheism,71,
+3,9,Failurewood Hills,Justice Lemon,85,73,36,INJURED,Fire Chefs,Gretel Beget-Fancy,71,
+3,9,Failurewood Hills,Rev Joe Hobo,69,,60,KILLED,Fire Chefs,Isla Monotheism,76,
+3,10,Vuvu Boys,Stabby Pete,69,67,56,INJURED,Grazer Ridge,Vicky Flamboyant,66,
+3,10,Picks Creek Miners,Crank Virtue,63,74,63,INJURED,Toymasters,Logical Flambe,72,
+3,10,Toymasters,Logical Flambe,92,49,73,INJURED,Picks Creek Miners,Rosemary Busted,48,
+3,10,Toymasters,Claw Scratchboard,92,67,69,INJURED,Picks Creek Miners,Rosemary Busted,67,
+3,10,Toymasters,Dr Goodsurgery,56,61,41,INJURED,Picks Creek Miners,Claudia Dystopia,60,
+3,10,Steggonauts,Father Tempest,91,75,62,INJURED,Blood Pit Bouncers,Fred Singularity,73,
+3,10,Steggonauts,Saul Mastif,42,75,44,INJURED,Blood Pit Bouncers,Clacton Express,73,
+3,10,Sunshine Funbus,Rocket Bobby,71,73,53,INJURED,Failurewood Hills,Johan Tremendous,72,
+3,10,Red Star Pathfinders,Horace Diamonds,38,62,48,INJURED,Sweaty Marsupials,Ruthie Spasms,59,
+3,10,Fire Chefs,Isla Monotheism,86,65,42,INJURED,Grunt Auto Gruppe,Cherri Margarita,68,BOUNTY COLLECTED
+3,10,Fire Chefs,Bessie Grapeshot,58,66,47,SEASON ENDING INJURY,Grunt Auto Gruppe,Harriet Reflux,65,
+3,10,LingoBlend Allstars,Jon The Plum,54,76,59,INJURED,Sportsball Union,Jackson Clowncar,75,
+3,10,LingoBlend Allstars,Flora Dope,54,57,35,INJURED,Sportsball Union,Jackson Clowncar,56,
+3,10,LingoBlend Allstars,Todd Baubles,63,65,58,INJURED,Sportsball Union,Kink Providence,63,
+3,10,Nomads,Kim Selecta,96,73,38,INJURED,Eduslum Marching Band,Ron Bongos,71,
+3,10,Stardozer HR,Ostentacious Smack,79,77,62,INJURED,Wizard Hole Wizards,Brad Adidas,76,
+3,10,Wizard Hole Wizards,Eddie Progribniak,97,73,31,INJURED,Stardozer HR,Beelzebub Fastidious,71,
+3,10,Stardozer HR,Emil Dada,64,69,39,INJURED,Wizard Hole Wizards,Mokka Badsun,69,
+3,10,Volcamoose Saints,Saint Crabthorn,56,60,29,INJURED,Bumson Medics,Subbuteo Bongos,59,
+3,10,Bumson Medics,Coughs Zerma,75,67,61,INJURED,Volcamoose Saints,Erlan Dickburg,64,
+3,10,Beekeepers,David Concentrate,68,61,19,INJURED,Ov City Axemen,Wanda Bluepill,60,
+3,10,Cheerio Inc,Alan Twerp,75,63,62,INJURED,Urrgmelonflex,Gail Scarlet-Roid,62,
+3,10,Cheerio Inc,Robert Fondle,60,,63,KILLED,Urrgmelonflex,Braendig Gladwin,83,
+3,10,Bongolia Sea Raiders,Rudy Capslock,71,78,61,INJURED,Kernal Space Agency,K C Jones,77,
+3,10,Kernal Space Agency,Olga Delerium,54,62,55,INJURED,Bongolia Sea Raiders,Paul Tribunal,60,
+3,10,Port Miggins Pirates,Anthony Go,60,84,27,INJURED,Wretched Minstrels,Oscar Cattle-Prod,82,
+3,10,Wretched Minstrels,Crash Zodiac,75,71,50,INJURED,Port Miggins Pirates,Jerry Surge,69,
+3,10,Wretched Minstrels,Oscar Cattle-Prod,73,97,51,INJURED,Port Miggins Pirates,Kiki Tyrant,95,
+3,10,Wretched Minstrels,Gillian Voidmonkey,72,69,66,INJURED,Port Miggins Pirates,Big Rod McGurk,68,
+3,10,Wretched Minstrels,Chonk Olympics,70,71,72,INJURED,Port Miggins Pirates,Mikey Pwertoolz,69,
+3,10,Shady Palms,Vera Gondolier,61,56,49,INJURED,Bulldozer Power,Steve Morrey,55,
+3,10,Shady Palms,Sinbad Contract,61,68,52,INJURED,Bulldozer Power,Steve Morrey,66,
+3,10,Shady Palms,Jovial Impairment,69,60,48,INJURED,Bulldozer Power,Zesty Lumber,58,
+3,10,Bulldozer Power,Captain Fantastic,81,61,53,INJURED,Shady Palms,Bork Tesla,59,
+3,11,Stardozer HR,Donut Crazy,80,,33,KILLED,Wizard Hole Wizards,Barry Turnips,63,
+3,11,Wizard Hole Wizards,Trip Hogwash,70,62,70,INJURED,Stardozer HR,David Onions,60,
+3,11,Stardozer HR,Randall Frippery,68,74,42,INJURED,Wizard Hole Wizards,Whomping Willow,73,
+3,11,Stardozer HR,Toothless Wonder,67,70,62,SEASON ENDING INJURY,Wizard Hole Wizards,Mokka Badsun,69,
+3,11,Bumson Medics,Betsy Cthulhu,75,63,38,INJURED,Volcamoose Saints,Erlan Dickburg,61,
+3,11,Ov City Axemen,Shandy Worthless,59,78,57,INJURED,Beekeepers,Ted Shirley,77,
+3,11,Budget Roadies,Fenella ValuePack,51,62,39,INJURED,Peninsula Transport,Ben Turncoat,60,
+3,11,Peninsula Transport,Hank Fungible,76,79,61,INJURED,Budget Roadies,Clamorous Thrapple,77,
+3,11,Peninsula Transport,Klepp Bossmang,76,84,39,INJURED,Budget Roadies,Clamorous Thrapple,83,
+3,11,Urrgmelonflex,Omar Pellegrino,67,64,35,INJURED,Cheerio Inc,Sanguine Pangs,62,
+3,11,Urrgmelonflex,Anne-Marie Tidal-Poole,73,55,19,INJURED,Cheerio Inc,Vlad SoixenteSept,56,
+3,11,Wretched Minstrels,Percival Hatred,87,84,25,INJURED,Port Miggins Pirates,Kiki Tyrant,83,
+3,11,Sportsball Union,Kink Providence,107,46,68,INJURED,LingoBlend Allstars,Ulysses Failure,44,
+3,11,LingoBlend Allstars,Jon The Plum,66,74,73,INJURED,Sportsball Union,Rafael Zeppelin,71,
+3,11,Red Star Pathfinders,Hildigard Weasel,62,,49,KILLED,Sweaty Marsupials,Helga Jumpjet,53,
+3,11,Sweaty Marsupials,Speedball Jones,38,64,37,INJURED,Red Star Pathfinders,Thor Haystacks,62,
+3,11,Sweaty Marsupials,Jerome Disquiet,37,63,35,INJURED,Red Star Pathfinders,Clive Goalmouth,61,
+3,11,Failurewood Hills,Desmond Eyeliner,61,71,33,INJURED,Sunshine Funbus,Antonio Rojas,69,
+3,11,Fire Chefs,Fred Beach,86,63,52,INJURED,Grunt Auto Gruppe,Cherri Margarita,62,
+3,11,Grunt Auto Gruppe,Bikebreaker Billy,76,73,52,INJURED,Fire Chefs,Isla Monotheism,71,
+3,11,Fire Chefs,Isla Monotheism,88,63,52,INJURED,Grunt Auto Gruppe,Georgie Cones,62,
+3,11,Fire Chefs,Vivienne Crumble,77,74,44,INJURED,Grunt Auto Gruppe,Carl Detonator,73,
+3,11,Fire Chefs,Tobin Jocular,86,53,90,INJURED,Grunt Auto Gruppe,Cherri Margarita,52,
+3,11,Fire Chefs,Mindy Bleach,86,65,56,INJURED,Grunt Auto Gruppe,Cherri Margarita,63,
+3,11,Grunt Auto Gruppe,Bingo Hazmat,78,83,61,INJURED,Fire Chefs,Percy Riots,81,
+3,11,Nomads,Miss Florida 1997,96,84,60,SEASON ENDING INJURY,Eduslum Marching Band,Ron Bongos,82,
+3,11,Eduslum Marching Band,Gus Hitman Resume,76,70,73,INJURED,Nomads,Crotch Dangleflag,69,
+3,11,Nomads,Exponential Tyrone,86,87,89,INJURED,Eduslum Marching Band,Tarquin Bangfish,85,
+3,11,Grazer Ridge,Barabas Void,68,,64,KILLED,Vuvu Boys,Brandon Peril,72,
+3,11,Grazer Ridge,Selma Mechwarrior,68,63,53,INJURED,Vuvu Boys,Horsten Saltblock,61,
+3,11,Shady Palms,Rowan Izkeen,75,59,48,INJURED,Bulldozer Power,Steve Morrey,57,
+3,11,Steggonauts,Benny Cheese,61,61,53,INJURED,Blood Pit Bouncers,Peter Brickwall,60,
+3,11,Steggonauts,Saul Mastif,42,73,44,INJURED,Blood Pit Bouncers,Clacton Express,72,
+3,12,Volcamoose Saints,Cogent Wang,62,67,64,INJURED,Red Star Pathfinders,Sahil Tasseldance,65,
+3,12,Red Star Pathfinders,Thor Haystacks,75,61,35,INJURED,Volcamoose Saints,Erlan Dickburg,59,
+3,12,Volcamoose Saints,Saint Crabthorn,59,62,29,INJURED,Red Star Pathfinders,Pope Lorenz,62,
+3,12,Red Star Pathfinders,Sahil Tasseldance,62,54,49,SEASON ENDING INJURY,Volcamoose Saints,Zerwin Trumpet,53,
+3,12,Bongolia Sea Raiders,Rudy Capslock,72,77,61,INJURED,Vuvu Boys,Brandon Peril,75,
+3,12,Bongolia Sea Raiders,Mike Heimlich,92,60,59,INJURED,Vuvu Boys,Evan Doublehair,58,
+3,12,Bongolia Sea Raiders,Ziggy Whippet,50,69,36,INJURED,Vuvu Boys,Bertha Raccoon,67,
+3,12,Bongolia Sea Raiders,Jendrich Grippy,92,72,54,INJURED,Vuvu Boys,Evan Doublehair,71,
+3,12,Cheerio Inc,Troy Oktoberfest,90,72,61,INJURED,Eduslum Marching Band,Gus Hitman Resume,75,
+3,12,Cheerio Inc,Sanguine Pangs,90,70,82,INJURED,Eduslum Marching Band,Gus Hitman Resume,68,
+3,12,Eduslum Marching Band,Surgeon General,73,66,78,INJURED,Cheerio Inc,Vlad SoixenteSept,61,
+3,12,Fire Chefs,Kim Freightmaster,68,81,51,INJURED,Wizard Hole Wizards,Whomping Willow,78,
+3,12,Fire Chefs,Isla Monotheism,75,66,52,INJURED,Wizard Hole Wizards,Barry Turnips,65,
+3,12,Fire Chefs,Vivienne Crumble,77,73,43,INJURED,Wizard Hole Wizards,Tonya Spangle,71,
+3,12,Sunshine Funbus,Rocket Bobby,59,74,53,INJURED,Picks Creek Miners,Crank Virtue,73,
+3,12,Picks Creek Miners,Crank Virtue,47,71,45,INJURED,Sunshine Funbus,John Decaro,72,
+3,12,Stardozer HR,Emil Dada,63,65,48,INJURED,Sportsball Union,Kink Providence,63,
+3,12,Sportsball Union,Marcel LeJams,70,78,59,INJURED,Stardozer HR,David Onions,77,
+3,12,Beekeepers,Rooster Views,75,50,37,INJURED,Sweaty Marsupials,Jossy Clickbait,50,
+3,12,Blood Pit Bouncers,Glenda Bastard,98,81,70,INJURED,Port Miggins Pirates,Big Rod McGurk,80,
+3,12,Steggonauts,Painful Grinding,83,66,67,INJURED,Failurewood Hills,Emanuel Weather-Cone,64,
+3,12,Urrgmelonflex,Chicken Druid,51,58,60,INJURED,LingoBlend Allstars,Todd Baubles,57,
+3,12,Budget Roadies,Drew Actionclump,63,91,30,INJURED,Nomads,Herr Bear,88,
+3,12,Nomads,Ilma Shelfspace,55,65,52,INJURED,Budget Roadies,Capsicum Disco,63,
+3,12,Grazer Ridge,Ominous Bob,88,64,77,INJURED,Grunt Auto Gruppe,Georgie Cones,63,
+3,12,Bumson Medics,Baron Torquemada,52,70,37,INJURED,Wretched Minstrels,Fingers Vektrix,70,
+3,12,Wretched Minstrels,Professor Fetom,56,56,42,INJURED,Bumson Medics,Subbuteo Bongos,65,
+3,13,Volcamoose Saints,Bro Stank,57,,38,KILLED,Wizard Hole Wizards,Whomping Willow,68,
+3,13,Beekeepers,Ted Shirley,59,64,56,INJURED,Grazer Ridge,Karen Woman,61,
+3,13,Beekeepers,Howl Halfmoon,80,39,49,SEASON ENDING INJURY,Grazer Ridge,Santino Bananas,47,
+3,13,Beekeepers,Len Styrofoam,57,76,62,INJURED,Grazer Ridge,Earl Blackfinger,78,
+3,13,Grazer Ridge,Nigel Prison,82,74,37,INJURED,Beekeepers,Minnie Sabotage,73,BOUNTY COLLECTED
+3,13,Beekeepers,Corina Very,80,57,88,INJURED,Grazer Ridge,Santino Bananas,54,
+3,13,Cheerio Inc,Vlad SoixenteSept,59,,50,KILLED,Vuvu Boys,Evan Doublehair,92,
+3,13,Stardozer HR,Beelzebub Fastidious,91,65,59,INJURED,Blood Pit Bouncers,Fred Singularity,64,
+3,13,Nomads,Herr Bear,72,65,59,INJURED,Sweaty Marsupials,Krag Franklin,63,
+3,13,Port Miggins Pirates,Doug Conglomerate,93,78,48,INJURED,Shady Palms,JJJ Schweitzer,77,
+3,13,Port Miggins Pirates,Arnie Hamburger,69,68,59,INJURED,Shady Palms,Spack Freely,65,
+3,13,Red Star Pathfinders,Thor Haystacks,52,57,34,INJURED,Bongolia Sea Raiders,Bernard Dunk,56,
+3,13,Red Star Pathfinders,Tandy Appleseed,80,72,62,INJURED,Bongolia Sea Raiders,Jez Schadenfreud,71,
+3,13,Bongolia Sea Raiders,Bernard Dunk,50,74,51,INJURED,Red Star Pathfinders,Dirk Shafter,71,
+3,13,Red Star Pathfinders,Horace Diamonds,76,57,47,INJURED,Bongolia Sea Raiders,Zoltan Zoltan,55,
+3,13,Bongolia Sea Raiders,Paul Tribunal,79,60,57,INJURED,Red Star Pathfinders,Euston Flamberge,60,
+3,13,Red Star Pathfinders,Grishnakh Jones,62,,50,KILLED,Bongolia Sea Raiders,Jez Schadenfreud,80,
+3,13,Toymasters,Benny Sausages,74,69,60,INJURED,Ov City Axemen,Cynthia Wrestling-Mask,68,
+3,13,Toymasters,Dr Goodsurgery,74,61,41,INJURED,Ov City Axemen,Cynthia Wrestling-Mask,59,
+3,13,Toymasters,Mildred Slippings,74,65,51,INJURED,Ov City Axemen,Cynthia Wrestling-Mask,62,
+3,13,Grunt Auto Gruppe,Georgie Cones,96,67,61,INJURED,Eduslum Marching Band,Ron Bongos,65,
+3,13,Grunt Auto Gruppe,Tyger Styles,47,85,48,INJURED,Eduslum Marching Band,Roughstuff Smith,84,
+3,13,Steggonauts,Painful Grinding,66,73,67,INJURED,Budget Roadies,Drew Actionclump,71,
+3,13,Steggonauts,Helmut Cenobite,69,72,40,INJURED,Budget Roadies,Capsicum Disco,70,
+3,13,Bulldozer Power,Ed Big-Mother,71,72,64,INJURED,Failurewood Hills,Johan Tremendous,70,
+3,13,Bulldozer Power,Fang Handlebars,83,51,45,INJURED,Failurewood Hills,Emanuel Weather-Cone,50,
+3,13,Bulldozer Power,Polio Hairpin,83,52,45,INJURED,Failurewood Hills,Emanuel Weather-Cone,51,
+3,14,Grazer Ridge,Stella Doit,68,53,59,INJURED,Wizard Hole Wizards,Whomping Willow,51,
+3,14,Wizard Hole Wizards,Trent Wrestles,80,68,56,INJURED,Grazer Ridge,Santino Bananas,66,
+3,14,Wizard Hole Wizards,Jetson Flange,59,65,43,SEASON ENDING INJURY,Grazer Ridge,Karen Woman,65,
+3,14,Wizard Hole Wizards,Eddie Progribniak,68,74,31,INJURED,Grazer Ridge,Bacta Bunty,73,
+3,14,Beekeepers,Ted Shirley,60,61,45,INJURED,Volcamoose Saints,Chris Biscuit,60,
+3,14,Volcamoose Saints,Willy Fanfest,64,,31,KILLED,Beekeepers,Minnie Sabotage,82,
+3,14,Picks Creek Miners,Claudia Dystopia,75,62,50,INJURED,Budget Roadies,Job Scott Dunne,62,
+3,14,Budget Roadies,Greta Truncheon,64,54,1,INJURED,Picks Creek Miners,Whiskers Camembert,53,
+3,14,Urrgmelonflex,Braendig Gladwin,70,69,50,SEASON ENDING INJURY,Steggonauts,Painful Grinding,68,
+3,14,Cheerio Inc,Sanguine Pangs,91,64,82,INJURED,Blood Pit Bouncers,Fred Singularity,62,
+3,14,Shady Palms,JJJ Schweitzer,58,81,47,INJURED,Grunt Auto Gruppe,Harriet Reflux,80,BOUNTY COLLECTED
+3,14,Shady Palms,Flo Uzi,86,55,67,INJURED,Grunt Auto Gruppe,Cherri Margarita,54,
+3,14,Shady Palms,Polly Babylon,88,69,34,INJURED,Grunt Auto Gruppe,Georgie Cones,68,
+3,14,Sunshine Funbus,Ivor Horn,95,71,50,INJURED,Bongolia Sea Raiders,Jez Schadenfreud,70,
+3,14,Vuvu Boys,Stabby Pete,70,74,56,INJURED,Stardozer HR,David Onions,73,
+3,14,Stardozer HR,Emil Dada,68,66,48,INJURED,Vuvu Boys,Horsten Saltblock,64,
+3,14,Port Miggins Pirates,Anthony Go,90,80,27,INJURED,Eduslum Marching Band,Gus Hitman Resume,78,
+3,14,Port Miggins Pirates,Kiki Tyrant,96,75,29,INJURED,Eduslum Marching Band,Ron Bongos,73,
+3,14,Port Miggins Pirates,Angie Railroad,96,77,67,INJURED,Eduslum Marching Band,Ron Bongos,76,
+3,14,Eduslum Marching Band,Linn Mephisto,72,77,61,INJURED,Port Miggins Pirates,Big Rod McGurk,75,
+3,14,Port Miggins Pirates,Pat Duplicitous,90,67,36,INJURED,Eduslum Marching Band,Gus Hitman Resume,67,
+3,14,Sweaty Marsupials,Helga Jumpjet,63,59,65,INJURED,Sportsball Union,Kink Providence,58,
+3,14,Toymasters,Dave Caustic,73,82,68,INJURED,Peninsula Transport,Gabe Transistor,81,
+3,14,Peninsula Transport,Klepp Bossmang,75,80,39,INJURED,Toymasters,Pip Strobelight,78,
+3,14,Fire Chefs,Gretel Beget-Fancy,75,60,56,INJURED,Bulldozer Power,Steve Morrey,59,
+3,14,Red Star Pathfinders,Thor Haystacks,40,55,33,INJURED,LingoBlend Allstars,Hack Murphy,54,
+3,14,Wretched Minstrels,Professor Fetom,72,69,55,INJURED,Nomads,Egon Sanction,68,
+3,14,Wretched Minstrels,Chonk Olympics,65,73,72,INJURED,Nomads,Flatnose McQuirk,72,
+3,14,Wretched Minstrels,Percival Hatred,72,79,25,INJURED,Nomads,Egon Sanction,78,
+3,14,Wretched Minstrels,Fingers Vektrix,61,79,56,INJURED,Nomads,Exponential Tyrone,78,
