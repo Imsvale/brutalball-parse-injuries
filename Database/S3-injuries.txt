@@ -1,3 +1,4 @@
+Season,Week,Victim Team,Victim,SR0,SR1,DUR,Type,Offender Team,Offender,BRU,Bounty
 3,1,Blood Pit Bouncers,Mighty Bouffant,71,60,65,SEASON ENDING INJURY,Beekeepers,Len Styrofoam,58,
 3,1,Grazer Ridge,Nigel Prison,61,83,46,INJURED,Peninsula Transport,Julio Lobster,82,
 3,1,Cheerio Inc,Myra Sacrifice,73,98,20,INJURED,Volcamoose Saints,Willy Fanfest,96,
