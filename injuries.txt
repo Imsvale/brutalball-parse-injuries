@@ -163,3 +163,64 @@ W5   Nomads Boris Wetpaperbag DUR 48 INJURED by Urrgmelonflex Braendig Gladwin B
 W5   Shady Palms Spack Freely DUR 58 INJURED by Grazer Ridge Karen Woman BRU 59 SR Drops from 72 to 70
 W5   Shady Palms Polly Babylon DUR 34 INJURED by Grazer Ridge Jostein Baffled BRU 83 SR Drops from 65 to 63
 W5   Grunt Auto Gruppe Bikebreaker Billy DUR 66 INJURED by Blood Pit Bouncers Fred Singularity BRU 91 SR Drops from 73 to 70
+W6   LingoBlend Allstars Todd Baubles DUR 56 INJURED by Bumson Medics Ethel Tread-Banjo BRU 75 SR Drops from 66 to 64
+W6   Bumson Medics Bingo Hazmat DUR 60 INJURED by LingoBlend Allstars Ulysses Failure BRU 93 SR Drops from 83 to 82
+W6   Toymasters Scrag Vitamins DUR 64 INJURED by Red Star Pathfinders Mateo Falcone BRU 80 SR Drops from 56 to 54
+W6   Toymasters Marcel Purpose DUR 24 INJURED by Red Star Pathfinders Mateo Falcone BRU 80 SR Drops from 70 to 69
+W6   Fire Chefs Eva Composite DUR 55 INJURED by Steggonauts Larry Splendid BRU 56 SR Drops from 72 to 70
+W6   Fire Chefs Vivienne Crumble DUR 42 INJURED by Steggonauts Benny Cheese BRU 67 SR Drops from 71 to 69
+W6   Fire Chefs Percy Riots SR 71 DUR 65 KILLED by by Steggonauts Painful Grinding BRU 70
+W6   Budget Roadies Nucky Mudwhistle DUR 47 INJURED by Failurewood Hills Emanuel Weather-Cone BRU 83 SR Drops from 67 to 66
+W6   Failurewood Hills Justice Lemon DUR 36 INJURED by Budget Roadies Capsicum Disco BRU 55 SR Drops from 54 to 53
+W6   Budget Roadies Coral Success DUR 60 INJURED by Failurewood Hills Vicky Flamboyant BRU 79 SR Drops from 59 to 58
+W6   Failurewood Hills Amanda Pickle DUR 38 INJURED by Budget Roadies Henk Vengeance BRU 58 SR Drops from 56 to 54
+W6   Failurewood Hills Desmond Eyeliner DUR 32 INJURED by Budget Roadies Capsicum Disco BRU 55 SR Drops from 71 to 68
+W6   Failurewood Hills Irish Joe Shokk DUR 33 INJURED by Budget Roadies Capsicum Disco BRU 55 SR Drops from 59 to 64
+W6   Shady Palms Tintin Hollywood DUR 45 INJURED by Ov City Axemen Wanda Bluepill BRU 68 SR Drops from 86 to 84
+W6   Ov City Axemen Shandy Worthless DUR 56 INJURED by Shady Palms Polly Babylon BRU 77 SR Drops from 79 to 79
+W6   Stardozer HR Kick Jess DUR 29 INJURED by Bongolia Sea Raiders Paul Dagger BRU 44 SR Drops from 64 to 63
+W6   Bongolia Sea Raiders Alan Prototype DUR 73 INJURED by Stardozer HR Drip Fizzlebrew BRU 77 SR Drops from 58 to 58
+W6   Stardozer HR Dubious Wombert DUR 48 INJURED by Bongolia Sea Raiders Zoltan Zoltan BRU 65 SR Drops from 63 to 61
+W6   Stardozer HR John Baritone DUR 55 INJURED by Bongolia Sea Raiders Big Rod McGurk BRU 88 SR Drops from 79 to 78
+W6   Grazer Ridge Dick Minor DUR 48 INJURED by Port Miggins Pirates Pat Duplicitous BRU 72 SR Drops from 67 to 65
+W6   Port Miggins Pirates Mikey Pwertoolz DUR 70 INJURED by Grazer Ridge Santino Bananas BRU 80 SR Drops from 78 to 76
+W6   Eduslum Marching Band Ron Bongos DUR 43 INJURED by Volcamoose Saints Erlan Dickburg BRU 87 SR Drops from 74 to 73
+W6   Wizard Hole Wizards Carl Detonator DUR 48 INJURED by Sweaty Marsupials Coughs Zerma BRU 70 SR Drops from 75 to 73
+W6   Wizard Hole Wizards Bautista Cranium DUR 51 INJURED by Sweaty Marsupials Ruthie Spasms BRU 82 SR Drops from 75 to 74
+W6   Kernal Space Agency Rock Hanz DUR 57 INJURED by Vuvu Boys Brandon Peril BRU 72 SR Drops from 89 to 88
+W6   Kernal Space Agency Karl Tsvasdan DUR 40 INJURED by Vuvu Boys Evan Doublehair BRU 92 SR Drops from 70 to 68
+W6   Kernal Space Agency Jeff Conservative DUR 28 INJURED by Vuvu Boys Chaz Crank-Fonz BRU 51 SR Drops from 51 to 50
+W6   Kernal Space Agency Ethan Hogwash DUR 75 INJURED by Vuvu Boys Evan Doublehair BRU 92 SR Drops from 83 to 81
+W6   Nomads Ilma Shelfspace DUR 52 INJURED by Peninsula Transport Gabe Transistor BRU 73 SR Drops from 68 to 67
+W6   Grunt Auto Gruppe Tiffany Hooverbag DUR 70 INJURED by Urrgmelonflex Ed Varnish BRU 71 SR Drops from 80 to 79
+W6   Urrgmelonflex Chicken Druid DUR 60 INJURED by Grunt Auto Gruppe President Skroob BRU 73 SR Drops from 63 to 62
+W7   Beekeepers Celia Parole DUR 54 INJURED by Blood Pit Bouncers Veronica Hammock BRU 62 SR Drops from 57 to 56
+W7   Blood Pit Bouncers Mark Disneyland DUR 34 INJURED by Beekeepers Cooper Right? BRU 65 SR Drops from 68 to 66
+W7   Fire Chefs Sticky Pierre DUR 53 INJURED by Failurewood Hills Emanuel Weather-Cone BRU 83 SR Drops from 63 to 61
+W7   Grazer Ridge Martin Jackhammer DUR 42 SEASON ENDING INJURY by Steggonauts Benny Cheese BRU 67 SR Drops from 66 to 65
+W7   Grazer Ridge Nigel Prison DUR 45 INJURED by Steggonauts Helmut Cenobite BRU 84 SR Drops from 79 to 78
+W7   Bongolia Sea Raiders Ziggy Whippet DUR 34 INJURED by Red Star Pathfinders Dirk Shafter BRU 67 SR Drops from 65 to 63
+W7   Wizard Hole Wizards Nat SpaceHopper DUR 50 INJURED by Peninsula Transport Trayce Attitude BRU 52 SR Drops from 75 to 74
+W7   Wizard Hole Wizards Apex Manticore DUR 78 INJURED by Peninsula Transport Diego ASMR BRU 80 SR Drops from 68 to 66
+W7   Wizard Hole Wizards Carl Detonator DUR 48 INJURED by Peninsula Transport Diego ASMR BRU 80 SR Drops from 70 to 68
+W7   Wizard Hole Wizards Whomping Willow DUR 84 INJURED by Peninsula Transport Randall Maroon BRU 78 SR Drops from 64 to 63
+W7   Kernal Space Agency Toothless Wonder SR 82 DUR 50 KILLED by by Port Miggins Pirates Pat Duplicitous BRU 72
+W7   Budget Roadies Nucky Mudwhistle SR 66 DUR 47 KILLED by by Urrgmelonflex Ed Varnish BRU 71
+W7   LingoBlend Allstars Jenny J Sonar DUR 54 INJURED by Shady Palms Margaret-Ann Sprinkles BRU 103 SR Drops from 45 to 44
+W7   Cheerio Inc Paddy Finucane DUR 74 INJURED by Bumson Medics El Smiters BRU 68 SR Drops from 74 to 73
+W7   Grunt Auto Gruppe Karin Hair DUR 55 INJURED by Eduslum Marching Band Ron Bongos BRU 96 SR Drops from 75 to 74
+W7   Eduslum Marching Band Mokka Badsun DUR 70 INJURED by Grunt Auto Gruppe Barry Turnips BRU 75 SR Drops from 77 to 75
+W7   Grunt Auto Gruppe Tyger Styles DUR 45 INJURED by Eduslum Marching Band Georgie Cones BRU 88 SR Drops from 91 to 90
+W7   Grunt Auto Gruppe Luther Pendragon DUR 54 INJURED by Eduslum Marching Band Ron Bongos BRU 96 SR Drops from 71 to 70
+W7   Toymasters Johanna U-Turn DUR 19 INJURED by Ov City Axemen Shandy Worthless BRU 63 SR Drops from 65 to 63
+W7   Toymasters Dr Goodsurgery DUR 40 SEASON ENDING INJURY by Ov City Axemen Wanda Bluepill BRU 68 SR Drops from 59 to 57
+W7   Sunshine Funbus Antonio Rojas DUR 39 INJURED by Wretched Minstrels Pitbull Jones BRU 64 SR Drops from 64 to 62
+W7   Wretched Minstrels Professor Fetom DUR 54 INJURED by Sunshine Funbus Colt Rhombus BRU 47 SR Drops from 61 to 60
+W7   Volcamoose Saints Cogent Wang DUR 64 INJURED by Stardozer HR John Baritone BRU 73 SR Drops from 66 to 64
+W7   Stardozer HR Danny Diet DUR 48 SEASON ENDING INJURY by Volcamoose Saints Zerwin Trumpet BRU 62 SR Drops from 71 to 70
+W7   Volcamoose Saints Chris Biscuit DUR 80 INJURED by Stardozer HR Kick Jess BRU 78 SR Drops from 101 to 100
+W7   Picks Creek Miners Crank Virtue DUR 44 INJURED by Vuvu Boys Horsten Saltblock BRU 68 SR Drops from 69 to 70
+W7   Bulldozer Power Stuntworth Friendly DUR 72 INJURED by Sweaty Marsupials Jack Flipacoin BRU 84 SR Drops from 63 to 62
+W7   Bulldozer Power Ed Big-Mother DUR 49 INJURED by Sweaty Marsupials Ruthie Spasms BRU 67 SR Drops from 63 to 68
+W7   Bulldozer Power Emmental Helmet DUR 28 INJURED by Sweaty Marsupials Coughs Zerma BRU 70 SR Drops from 64 to 63
+W7   Sweaty Marsupials Jack Flipacoin DUR 36 INJURED by Bulldozer Power Steve Morrey BRU 61 SR Drops from 67 to 65
