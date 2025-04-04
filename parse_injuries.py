@@ -37,38 +37,14 @@ def main():
     content = content.strip()
 
     teams_hardcoded = [
-        "Urrgmelonflex",
-        "Volcamoose Saints",
-        "Blood Pit Bouncers",
-        "Bulldozer Power",
-        "Failurewood Hills",
-        "Vuvu Boys",
-        "Grunt Auto Gruppe",
-        "Sunshine Funbus",
-        "Port Miggins Pirates",
-        "Sweaty Marsupials",
-        "Kernal Space Agency",
-        "Picks Creek Miners",
-        "Sportsball Union",
-        "Peninsula Transport",
-        "Red Star Pathfinders",
-        "Fire Chefs",
-        "Ov City Axemen",
-        "Eduslum Marching Band",
-        "Budget Roadies",
-        "Nomads",
-        "Grazer Ridge",
-        "Bongolia Sea Raiders",
-        "Bumson Medics",
-        "Cheerio Inc",
-        "Steggonauts",
-        "Shady Palms",
-        "Toymasters",
-        "Stardozer HR",
-        "Wizard Hole Wizards",
-        "Beekeepers",
-        "Wretched Minstrels",
-        "LingoBlend Allstars",
+        "Urrgmelonflex", "Volcamoose Saints", "Blood Pit Bouncers", "Bulldozer Power", 
+        "Failurewood Hills", "Vuvu Boys", "Grunt Auto Gruppe", "Sunshine Funbus",
+        "Port Miggins Pirates", "Sweaty Marsupials", "Kernal Space Agency", "Picks Creek Miners",
+        "Sportsball Union", "Peninsula Transport", "Red Star Pathfinders", "Fire Chefs", 
+        "Ov City Axemen", "Eduslum Marching Band", "Budget Roadies", "Nomads", "Grazer Ridge",
+        "Bongolia Sea Raiders", "Bumson Medics", "Cheerio Inc", "Steggonauts", "Shady Palms",
+        "Toymasters", "Stardozer HR", "Wizard Hole Wizards", "Beekeepers", "Wretched Minstrels",
+        "LingoBlend Allstars"
     ]
 
     try:
@@ -80,25 +56,38 @@ def main():
     print("Parsing...")
 
     # Week number
-    content = re.sub("W([\\d+])", f"{args.season},\\1", content)
+    week_pattern = re.compile("W([\\d+])")
+    content = re.sub(week_pattern, f"{args.season},\\1", content)
 
-    # INJURY
-    content = re.sub(
+    # # INJURY
+    # content = re.sub(
 
-        # Input: [DUR xx] [Blah] [BRU xx] SR Drops from [SR0] to [SR1] [Bounty]
-        " DUR.(\\d+) (.+) BRU (\\d+) SR Drops from (\\d+) to (\\d+) *",
+    #     # Input: [DUR xx] [Blah] [BRU xx] SR Drops from [SR0] to [SR1] [Bounty]
+    #     " DUR.(\\d+) (.+) BRU (\\d+) SR Drops from (\\d+) to (\\d+) *",
 
-        # Output: SR0,SR1,DUR,Blah,Bounty
-        ",\\4,\\5,\\1,\\2,\\3,", content)
+    #     # Output: SR0,SR1,DUR,Blah,Bounty
+    #     ",\\4,\\5,\\1,\\2,\\3,", content)
+    
+    # INJURY regex example
+    injury_pattern = re.compile(
+        " DUR.(\\d+) (.+) BRU (\\d+) SR Drops from (\\d+) to (\\d+) *"
+    )
+    content = injury_pattern.sub(",\\4,\\5,\\1,\\2,\\3,", content)
 
-    # KILL
-    content = re.sub(
-        # Input: [SR] DUR xx [Blah] [BRU xx] [Bounty]
-        " SR (\\d+) DUR (\\d+) (.+) BRU (\\d+) *",
-        # Output: SR,,DUR,Blah,BRU,Bounty
-        ",\\1,,\\2,\\3,\\4,", content)
+    # # KILL
+    # content = re.sub(
+    #     # Input: [SR] DUR xx [Blah] [BRU xx] [Bounty]
+    #     " SR (\\d+) DUR (\\d+) (.+) BRU (\\d+) *",
+    #     # Output: SR,,DUR,Blah,BRU,Bounty
+    #     ",\\1,,\\2,\\3,\\4,", content)
+    
+    # KILL regex example
+    kill_pattern = re.compile(
+        " SR (\\d+) DUR (\\d+) (.+) BRU (\\d+) *"
+    )
+    content = kill_pattern.sub(",\\1,,\\2,\\3,\\4,", content)
 
-    # Isolate teams
+    # Wrap team names in commas
     for team in teams:
         content = re.sub(f" *({team}) *", f",{team},", content)
 
@@ -110,7 +99,6 @@ def main():
     print("Writing to file...")
     with open(args.out, "w+") as f:
         f.write(headers)
-    with open(args.out, "a") as f:
         f.write(content)
     print("All done!")
 
