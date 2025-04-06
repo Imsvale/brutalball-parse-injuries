@@ -56,43 +56,31 @@ def main():
     print("Parsing...")
 
     # Week number
-    week_pattern = re.compile("W([\\d+])")
-    content = re.sub(week_pattern, f"{args.season},\\1", content)
-
-    # # INJURY
-    # content = re.sub(
-
-    #     # Input: [DUR xx] [Blah] [BRU xx] SR Drops from [SR0] to [SR1] [Bounty]
-    #     " DUR.(\\d+) (.+) BRU (\\d+) SR Drops from (\\d+) to (\\d+) *",
-
-    #     # Output: SR0,SR1,DUR,Blah,Bounty
-    #     ",\\4,\\5,\\1,\\2,\\3,", content)
+    week_pattern = re.compile(r"W(\d+) *")
+    content = week_pattern.sub(rf"{args.season},\1,", content)
     
-    # INJURY regex example
-    injury_pattern = re.compile(
-        " DUR.(\\d+) (.+) BRU (\\d+) SR Drops from (\\d+) to (\\d+) *"
-    )
-    content = injury_pattern.sub(",\\4,\\5,\\1,\\2,\\3,", content)
-
-    # # KILL
-    # content = re.sub(
-    #     # Input: [SR] DUR xx [Blah] [BRU xx] [Bounty]
-    #     " SR (\\d+) DUR (\\d+) (.+) BRU (\\d+) *",
-    #     # Output: SR,,DUR,Blah,BRU,Bounty
-    #     ",\\1,,\\2,\\3,\\4,", content)
+    # INJURY
+    content = re.sub(
+        # Input: [DUR xx] [Blah] [BRU xx] SR Drops from [SR0] to [SR1] [Bounty]
+        r" DUR.(\d+) (.+) BRU (\d+) SR Drops from (\d+) to (\d+) *",
+        # Output: SR0,SR1,DUR,Blah,Bounty
+        r",\4,\5,\1,\2,\3,", content)
     
-    # KILL regex example
-    kill_pattern = re.compile(
-        " SR (\\d+) DUR (\\d+) (.+) BRU (\\d+) *"
-    )
-    content = kill_pattern.sub(",\\1,,\\2,\\3,\\4,", content)
+    # KILL
+    content = re.sub(
+        r" SR (\d+) DUR (\d+) (.+) BRU (\d+) *",
+        r",\2,\1,,\3,\4,", content)
 
     # Wrap team names in commas
     for team in teams:
-        content = re.sub(f" *({team}) *", f",{team},", content)
+        # Replace team names with comma-wrapped versions
+        content = re.sub(
+            rf"({team}) (.*?,)", 
+            rf"\2\1,", content)
 
     # Split at injury type
-    content = re.sub(" *(INJURED|KILLED|SEASON ENDING INJURY)( by)+", "\\1", content)
+    content = re.sub(
+        re.compile(r" *(INJURED|KILLED|SEASON ENDING INJURY)( *by)+ *"), r"\1,", content)
 
     headers = "Season,Week,Victim Team,Victim,SR0,SR1,DUR,Type,Offender Team,Offender,BRU,Bounty\n"
 
