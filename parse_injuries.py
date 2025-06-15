@@ -13,26 +13,38 @@ def main():
         """))
 
     parser.add_argument("-f", "--file", type=str, help="Path to input file", default="injuries.txt")
+    parser.add_argument("-H", "--headers", type=str, help="Write headers", default="y", choices=["y", "n", "yes", "no"])
     parser.add_argument("-o", "--out", type=str, help="Path to output file", default="injuries parsed.txt")
-    parser.add_argument("-s", "--season", type=str ,help="Season number to use", default="4")
-    parser.add_argument("-t", "--teams", type=str ,help="Path to teams file", default="teams.txt")
+    parser.add_argument("-s", "--season", type=str, help="Season number to use", default="0")
+    parser.add_argument("-t", "--teams", type=str, help="Path to teams file", default="teams.txt")
 
     try:
         args = parser.parse_args()
     except ValueError as e:
         print(e)
         print(parser.help())
-        exit()
-
-    if args.file:
-        print(f"Taking input from {args.file}")
+        return
 
     try:
         with open(args.file) as f:
+
+            # Peek at the first line
+            first_line = f.readline().strip()
+
+            # Season number can be given on the first line in the format #S1 or #SEASON1.
+            # See if this is present.
+            match = re.match(r"#S[a-zA-Z]*(\d+)", first_line)
+            if match:
+                args.season = match.group(1)
+            else:
+                # Reset back to the start of the file
+                f.seek(0)
+
             content = f.read()
+            
     except FileNotFoundError:
         print(f"Input file {args.file} not found.\n")
-        exit()
+        return
 
     content = content.strip()
 
@@ -52,8 +64,6 @@ def main():
             teams = [line.strip() for line in f if line.strip()]
     except FileNotFoundError:
         teams = teams_hardcoded
-
-    print("Parsing...")
 
     # Week number
     week_pattern = re.compile(r"W(\d+) *")
@@ -84,11 +94,10 @@ def main():
 
     headers = "Season,Week,Victim Team,Victim,SR0,SR1,DUR,Type,Offender Team,Offender,BRU,Bounty\n"
 
-    print("Writing to file...")
     with open(args.out, "w+") as f:
-        f.write(headers)
+        if args.headers.lower() == "y":
+            f.write(headers)
         f.write(content)
-    print("All done!")
 
 if __name__ == "__main__":
     main()
