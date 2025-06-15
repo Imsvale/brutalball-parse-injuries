@@ -1,3 +1,4 @@
+Season,Week,Victim Team,Victim,SR0,SR1,DUR,Type,Offender Team,Offender,BRU,Bounty
 1,1,Lucky Steve,Cheerio Inc,61,54,,KILLED,Santino Bananas,Bulldozer Power,80,
 1,1,Bernard Dunk,Bongolia Sea Raiders,81,81,52,INJURED,Erlan Dickburg,Colonel School,75,
 1,1,Bandit Joe,Stardozer HR,77,76,19,INJURED,Kim Freightmaster,Fire Chefs,48,
