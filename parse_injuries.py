@@ -73,7 +73,7 @@ def main():
     content = re.sub(
         # Input: [DUR xx] [Blah] [BRU xx] SR Drops from [SR0] to [SR1] [Bounty]
         r" DUR.(\d+) (.+) BRU (\d+) SR Drops from (\d+) to (\d+) *",
-        # Output: SR0,SR1,DUR,Blah,Bounty
+        # Output: SR0,SR1,DUR,...,Bounty
         r",\4,\5,\1,\2,\3,", content)
     
     # KILL
@@ -86,7 +86,7 @@ def main():
         # Replace team names with comma-wrapped versions
         content = re.sub(
             rf"({team}) (.*?,)", 
-            rf"\2\1,", content)
+            rf"\1,\2", content)
 
     # Split at injury type
     content = re.sub(
